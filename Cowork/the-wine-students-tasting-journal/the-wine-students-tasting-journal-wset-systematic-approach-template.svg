@@ -1,0 +1,321 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="612" height="792" viewBox="0 0 612 792">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;display=swap');
+      text { font-family: 'Open Sans', sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Page background -->
+  <rect width="612" height="792" fill="#FFFFFF"/>
+
+  <!-- Header bar -->
+  <rect x="27" y="54" width="558" height="24" fill="#000000"/>
+  <text x="306" y="71" font-family="'Open Sans',sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle">SYSTEMATIC APPROACH TO TASTING (SAT) - WSET</text>
+
+  <!-- Wine Info Row -->
+  <rect x="27" y="83" width="558" height="18" fill="#333333"/>
+  <text x="33" y="96" font-family="'Open Sans',sans-serif" font-size="8" font-weight="700" fill="#FFFFFF">WINE INFO</text>
+
+  <!-- Wine info fields row 1 -->
+  <text x="33" y="113" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Wine / Producer:</text>
+  <rect x="105" y="103" width="180" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="295" y="113" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Vintage:</text>
+  <rect x="325" y="103" width="60" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="393" y="113" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Date Tasted:</text>
+  <rect x="444" y="103" width="141" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Wine info fields row 2 -->
+  <text x="33" y="130" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Region / Appellation:</text>
+  <rect x="120" y="120" width="165" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="295" y="130" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Grape(s):</text>
+  <rect x="333" y="120" width="252" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- SECTION 1: APPEARANCE -->
+  <rect x="27" y="139" width="558" height="16" fill="#333333"/>
+  <text x="33" y="151" font-family="'Open Sans',sans-serif" font-size="8.5" font-weight="700" fill="#FFFFFF">1. APPEARANCE</text>
+
+  <!-- Clarity row -->
+  <rect x="27" y="155" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="165" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Clarity:</text>
+  <text x="80" y="165" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Clear</text>
+  <rect x="101" y="157" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="114" y="165" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Hazy</text>
+  <rect x="133" y="157" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Intensity row -->
+  <rect x="27" y="169" width="558" height="14" fill="#FFFFFF"/>
+  <text x="33" y="179" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Intensity:</text>
+  <text x="85" y="179" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Pale</text>
+  <rect x="102" y="171" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="114" y="179" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium-Pale</text>
+  <rect x="162" y="171" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="174" y="179" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="208" y="171" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="220" y="179" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium-Deep</text>
+  <rect x="272" y="171" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="284" y="179" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Deep</text>
+  <rect x="304" y="171" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Color row -->
+  <rect x="27" y="183" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="193" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Color (White):</text>
+  <text x="98" y="193" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Lemon-Green</text>
+  <rect x="150" y="185" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="162" y="193" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Lemon</text>
+  <rect x="189" y="185" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="201" y="193" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Gold</text>
+  <rect x="219" y="185" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="231" y="193" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Amber</text>
+  <rect x="254" y="185" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="266" y="193" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Brown</text>
+  <rect x="288" y="185" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <text x="33" y="207" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Color (Red):</text>
+  <rect x="27" y="197" width="558" height="14" fill="#FFFFFF"/>
+  <text x="90" y="207" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Purple</text>
+  <rect x="112" y="199" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="124" y="207" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Ruby</text>
+  <rect x="143" y="199" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="155" y="207" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Garnet</text>
+  <rect x="178" y="199" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="190" y="207" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Tawny</text>
+  <rect x="212" y="199" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="224" y="207" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Brown</text>
+  <rect x="246" y="199" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Other observations -->
+  <rect x="27" y="211" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="221" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Other Observations:</text>
+  <rect x="130" y="212" width="455" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- SECTION 2: NOSE -->
+  <rect x="27" y="230" width="558" height="16" fill="#333333"/>
+  <text x="33" y="242" font-family="'Open Sans',sans-serif" font-size="8.5" font-weight="700" fill="#FFFFFF">2. NOSE</text>
+
+  <!-- Condition -->
+  <rect x="27" y="246" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="256" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Condition:</text>
+  <text x="85" y="256" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Clean</text>
+  <rect x="106" y="248" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="118" y="256" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Unclean (fault):</text>
+  <rect x="180" y="248" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="192" y="248" width="120" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Nose Intensity -->
+  <rect x="27" y="260" width="558" height="14" fill="#FFFFFF"/>
+  <text x="33" y="270" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Intensity:</text>
+  <text x="83" y="270" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Light</text>
+  <rect x="101" y="262" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="113" y="270" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium-Light</text>
+  <rect x="163" y="262" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="175" y="270" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="209" y="262" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="221" y="270" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium-Plus</text>
+  <rect x="269" y="262" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="281" y="270" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Pronounced</text>
+  <rect x="328" y="262" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Fruit Aromas -->
+  <rect x="27" y="274" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="284" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Fruit Aromas:</text>
+  <rect x="97" y="275" width="488" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Non-Fruit Aromas -->
+  <rect x="27" y="288" width="558" height="14" fill="#FFFFFF"/>
+  <text x="33" y="298" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Non-Fruit / Oak:</text>
+  <rect x="105" y="289" width="480" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Development -->
+  <rect x="27" y="302" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="312" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Development:</text>
+  <text x="96" y="312" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Youthful</text>
+  <rect x="126" y="304" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="138" y="312" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Developing</text>
+  <rect x="178" y="304" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="190" y="312" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Fully Developed</text>
+  <rect x="244" y="304" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="256" y="312" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Tired / Past Best</text>
+  <rect x="315" y="304" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- SECTION 3: PALATE -->
+  <rect x="27" y="321" width="558" height="16" fill="#333333"/>
+  <text x="33" y="333" font-family="'Open Sans',sans-serif" font-size="8.5" font-weight="700" fill="#FFFFFF">3. PALATE</text>
+
+  <!-- Sweetness -->
+  <rect x="27" y="337" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="347" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Sweetness:</text>
+  <text x="90" y="347" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Dry</text>
+  <rect x="103" y="339" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="115" y="347" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Off-Dry</text>
+  <rect x="140" y="339" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="152" y="347" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium-Dry</text>
+  <rect x="198" y="339" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="210" y="347" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium-Sweet</text>
+  <rect x="262" y="339" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="274" y="347" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Sweet</text>
+  <rect x="296" y="339" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="308" y="347" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Luscious</text>
+  <rect x="337" y="339" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Acidity -->
+  <rect x="27" y="351" width="558" height="14" fill="#FFFFFF"/>
+  <text x="33" y="361" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Acidity:</text>
+  <text x="78" y="361" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Low</text>
+  <rect x="94" y="353" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="106" y="361" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium-Low</text>
+  <rect x="153" y="353" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="165" y="361" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="199" y="353" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="211" y="361" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium-High</text>
+  <rect x="260" y="353" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="272" y="361" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">High</text>
+  <rect x="289" y="353" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Tannin (red only) -->
+  <rect x="27" y="365" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="375" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Tannin (red):</text>
+  <text x="94" y="375" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Low</text>
+  <rect x="110" y="367" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="122" y="375" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Med-Low</text>
+  <rect x="157" y="367" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="169" y="375" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="203" y="367" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="215" y="375" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Med-High</text>
+  <rect x="252" y="367" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="264" y="375" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">High</text>
+  <rect x="281" y="367" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="293" y="375" font-family="'Open Sans',sans-serif" font-size="7" fill="#333333">| Texture:</text>
+  <text x="332" y="375" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Soft</text>
+  <rect x="349" y="367" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="361" y="375" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Smooth</text>
+  <rect x="391" y="367" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="403" y="375" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Grippy</text>
+  <rect x="428" y="367" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="440" y="375" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Coarse</text>
+  <rect x="465" y="367" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Alcohol -->
+  <rect x="27" y="379" width="558" height="14" fill="#FFFFFF"/>
+  <text x="33" y="389" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Alcohol:</text>
+  <text x="79" y="389" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Low</text>
+  <rect x="95" y="381" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="107" y="389" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="141" y="381" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="153" y="389" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">High</text>
+  <rect x="170" y="381" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="186" y="389" font-family="'Open Sans',sans-serif" font-size="7" fill="#333333">| Body:</text>
+  <text x="217" y="389" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Light</text>
+  <rect x="234" y="381" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="246" y="389" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="280" y="381" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="292" y="389" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Full</text>
+  <rect x="305" y="381" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Flavor Intensity -->
+  <rect x="27" y="393" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="403" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Flavor Intensity:</text>
+  <text x="108" y="403" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Light</text>
+  <rect x="125" y="395" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="137" y="403" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Med-Light</text>
+  <rect x="176" y="395" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="188" y="403" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="222" y="395" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="234" y="403" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Med-Plus</text>
+  <rect x="271" y="395" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="283" y="403" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Pronounced</text>
+  <rect x="330" y="395" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Flavor Characteristics -->
+  <rect x="27" y="407" width="558" height="14" fill="#FFFFFF"/>
+  <text x="33" y="417" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Flavor Notes:</text>
+  <rect x="98" y="408" width="487" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Finish -->
+  <rect x="27" y="421" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="431" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Finish:</text>
+  <text x="71" y="431" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Short</text>
+  <rect x="90" y="423" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="102" y="431" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="136" y="423" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="148" y="431" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Long</text>
+  <rect x="164" y="423" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="180" y="431" font-family="'Open Sans',sans-serif" font-size="7" fill="#333333">| Additional notes:</text>
+  <rect x="258" y="422" width="327" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- SECTION 4: CONCLUSIONS -->
+  <rect x="27" y="440" width="558" height="16" fill="#333333"/>
+  <text x="33" y="452" font-family="'Open Sans',sans-serif" font-size="8.5" font-weight="700" fill="#FFFFFF">4. CONCLUSIONS</text>
+
+  <!-- Quality Assessment -->
+  <rect x="27" y="456" width="558" height="14" fill="#F0F0F0"/>
+  <text x="33" y="466" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Quality:</text>
+  <text x="73" y="466" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Faulty</text>
+  <rect x="95" y="458" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="107" y="466" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Poor</text>
+  <rect x="124" y="458" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="136" y="466" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Acceptable</text>
+  <rect x="180" y="458" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="192" y="466" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Good</text>
+  <rect x="212" y="458" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="224" y="466" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Very Good</text>
+  <rect x="262" y="458" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="274" y="466" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Outstanding</text>
+  <rect x="320" y="458" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Readiness -->
+  <rect x="27" y="470" width="558" height="14" fill="#FFFFFF"/>
+  <text x="33" y="480" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Readiness:</text>
+  <text x="88" y="480" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Drink Now</text>
+  <rect x="128" y="472" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="140" y="480" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Can Age</text>
+  <rect x="171" y="472" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="183" y="480" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Should Age</text>
+  <rect x="225" y="472" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="237" y="480" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Too Young</text>
+  <rect x="277" y="472" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="289" y="480" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Past Best</text>
+  <rect x="326" y="472" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="340" y="480" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Drink/Hold:</text>
+  <rect x="385" y="472" width="80" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="470" y="480" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">years</text>
+
+  <!-- Exam-Style Conclusion Box -->
+  <rect x="27" y="489" width="558" height="16" fill="#F0F0F0" stroke="#000000" stroke-width="0.75"/>
+  <text x="33" y="501" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Examiner's Summary Statement (write in full sentences as per SAT):</text>
+
+  <rect x="27" y="505" width="558" height="116" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <!-- Writing lines -->
+  <line x1="33" y1="520" x2="579" y2="520" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="534" x2="579" y2="534" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="548" x2="579" y2="548" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="562" x2="579" y2="562" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="576" x2="579" y2="576" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="590" x2="579" y2="590" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="604" x2="579" y2="604" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="618" x2="579" y2="618" stroke="#CCCCCC" stroke-width="0.5"/>
+
+  <!-- Overall score box -->
+  <rect x="27" y="626" width="558" height="20" fill="#F0F0F0" stroke="#000000" stroke-width="0.75"/>
+  <text x="33" y="640" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Overall Score (100pt):</text>
+  <rect x="138" y="629" width="40" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="185" y="640" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">20pt Score:</text>
+  <rect x="233" y="629" width="30" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="270" y="640" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">WS Score:</text>
+  <rect x="316" y="629" width="30" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="352" y="640" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Price Paid:</text>
+  <rect x="397" y="629" width="50" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="452" y="640" font-family="'Open Sans',sans-serif" font-size="7.5" font-weight="700" fill="#000000">Value:</text>
+  <text x="476" y="640" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Poor</text>
+  <rect x="491" y="629" width="8" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="503" y="640" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Good</text>
+  <rect x="519" y="629" width="8" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="531" y="640" font-family="'Open Sans',sans-serif" font-size="7" fill="#000000">Excl</text>
+  <rect x="548" y="629" width="8" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Outer border -->
+  <rect x="27" y="54" width="558" height="592" fill="none" stroke="#000000" stroke-width="1"/>
+
+  <!-- Page number placeholder -->
+  <text x="306" y="752" font-family="'Open Sans',sans-serif" font-size="8" fill="#000000" text-anchor="middle">___</text>
+</svg>

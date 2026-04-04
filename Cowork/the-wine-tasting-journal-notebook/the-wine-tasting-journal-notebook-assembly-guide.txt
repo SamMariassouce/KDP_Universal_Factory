@@ -1,0 +1,147 @@
+=====================================
+INTERIOR ASSEMBLY GUIDE — The Wine Tasting Journal Notebook
+Target pages: 110
+Trim size: 6 x 9
+=====================================
+
+PAGE STRUCTURE:
+Page 1:      Title page
+Page 2:      Copyright page
+Pages 3-4:   How to use
+Pages 5-104: tasting-log-template.svg
+Pages 105-109: to-buy-list-template.svg
+Page 110:    Thank you
+
+TOTAL: 110 pages (even). No blank page needed.
+
+FONT: Roboto
+COLOR SCHEME: Black and white
+MARGINS:
+  Inside: 0.375 in | Outside: 0.375 in | Top: 0.75 in | Bottom: 0.75 in
+
+AFFINITY PUBLISHER SETUP:
+1. New document: 6 x 9 in, 110 pages, facing pages ON
+2. Set bleed: 0.125 in all sides
+3. Set margins to match safe area above
+4. Import each SVG as a master page
+5. Place SVGs on master pages and apply as needed
+6. Page numbers: use Affinity Publisher's auto page numbering;
+   delete the placeholder "- 1 -" text from each template once
+   master pages are configured.
+7. Export: File > Export > PDF (Print) > PDF/X-1a, 300 DPI
+
+=====================================
+
+-------------------------------------
+PAGE 1 — TITLE PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+The Wine Tasting Journal Notebook
+
+A Simple, Effective Log for Recording Daily Pours
+and Favorite Labels
+
+Author: Blissity Publications
+-------------------------------------
+
+-------------------------------------
+PAGE 2 — COPYRIGHT PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Copyright © 2026 Blissity Publications
+
+All rights reserved.
+
+No part of this publication may be reproduced, distributed, or transmitted
+in any form or by any means, including photocopying, recording, or other
+electronic or mechanical methods, without the prior written permission of
+the publisher.
+
+Printed in the USA
+
+First Edition
+-------------------------------------
+
+-------------------------------------
+PAGES 3-4 — HOW TO USE THIS BOOK (2 pages)
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Welcome to The Wine Tasting Journal Notebook — the no-fuss way to
+remember every wine you try.
+
+This journal is made for people who love wine but don't want to spend
+twenty minutes writing tasting notes every time they open a bottle. It's
+fast, simple, and designed to fit into the way you actually drink wine —
+whether that's a casual Tuesday pour at home, a glass at a restaurant, or
+a Saturday afternoon at a friend's dinner party.
+
+There is no right or wrong way to use it. The goal is just to capture
+enough that you'll remember the wine later.
+
+HOW THE TASTING LOG WORKS (pages 5-104)
+
+Each page holds two quick entries. For every wine you try, just fill in:
+
+WINE — Write the name of the wine. Even a partial name or a rough
+description works. Something like "the French red from Whole Foods" is
+perfectly fine.
+
+DATE — When you tried it. Handy for remembering seasons or occasions.
+
+TYPE — Tick the box for red, white, rose, or sparkling. One tap and
+you're done.
+
+MY RATING — Mark as many of the five boxes as the wine deserves. One box
+means it wasn't great. Five boxes means buy more immediately.
+
+NOTES — This is your space. Write whatever comes to mind — the smell, the
+taste, the food you had with it, who you shared it with, or just whether
+you'd buy it again. There are no rules here. Even one sentence is better
+than nothing.
+
+That's it. Two entries per page, no jargon required.
+
+HOW THE "WINES TO BUY" LIST WORKS (pages 105-114)
+
+These pages are your personal wine shopping list. When someone recommends
+a wine, when you see something interesting on a menu, or when you finish
+a bottle and want to remember to get it again — write it here.
+
+Each row has:
+- A checkbox to tick when you've bought (or found) the wine
+- Space for the wine name
+- A column for where to find it — a shop, a restaurant, a website
+- A column for the price so you can budget ahead
+
+Use these pages as your running list between shopping trips. Cross off or
+tick the box when you've got it, and start a new row for the next one.
+
+A tip: keep this notebook with you. The best time to log a wine is right
+when you're drinking it — before the details fade. Pull it out at the
+table, fill in the quick fields, and you've done it. Your future self
+will thank you.
+-------------------------------------
+
+-------------------------------------
+LAST PAGE (PAGE 110) — THANK YOU PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Thank you for choosing The Wine Tasting Journal Notebook to keep track
+of your wine journey.
+
+Every bottle you record here is a little memory saved — the good ones
+you'll want to find again, the not-so-great ones you'll be glad you
+wrote down, and all the in-between ones that might just surprise you
+when you look back. Keep this notebook close, keep filling it in, and
+enjoy every pour along the way.
+
+If this journal has made it easier to remember and discover wines you
+love, we would love to hear about it! Please take a moment to leave an
+honest review on Amazon — your feedback helps other wine lovers find
+books that make a real difference.
+
+Scroll back to the top and click the review button.
+
+With gratitude,
+Blissity Publications
+-------------------------------------

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="720" viewBox="0 0 576 720">
+
+  <!-- Page background -->
+  <rect width="576" height="720" fill="#FFFFFF"/>
+
+  <!-- Outer border (safe area) -->
+  <rect x="36" y="54" width="513" height="612" fill="none" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- ============================================================ -->
+  <!-- TITLE BAR                                                    -->
+  <!-- ============================================================ -->
+  <rect x="36" y="54" width="513" height="24" fill="#000000"/>
+  <text x="292" y="71" font-family="Lato,sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">COLOR &amp; CLARITY ANALYSIS</text>
+
+  <!-- ============================================================ -->
+  <!-- WINE IDENTIFICATION                                          -->
+  <!-- ============================================================ -->
+  <rect x="36" y="78" width="513" height="15" fill="#444444"/>
+  <text x="42" y="89" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">WINE IDENTIFICATION</text>
+
+  <!-- Row 1: Wine Name | Vintage -->
+  <text x="42" y="105" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">WINE NAME</text>
+  <line x1="88" y1="107" x2="390" y2="107" stroke="#555555" stroke-width="0.5"/>
+  <text x="400" y="105" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">VINTAGE</text>
+  <line x1="432" y1="107" x2="549" y2="107" stroke="#555555" stroke-width="0.5"/>
+
+  <!-- Row 2: Region | Grape Variety -->
+  <text x="42" y="121" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">REGION</text>
+  <line x1="76" y1="123" x2="290" y2="123" stroke="#555555" stroke-width="0.5"/>
+  <text x="300" y="121" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">GRAPE VARIETY</text>
+  <line x1="371" y1="123" x2="549" y2="123" stroke="#555555" stroke-width="0.5"/>
+
+  <!-- Row 3: Date | Producer -->
+  <text x="42" y="137" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">DATE TASTED</text>
+  <line x1="100" y1="139" x2="270" y2="139" stroke="#555555" stroke-width="0.5"/>
+  <text x="280" y="137" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">PRODUCER / ESTATE</text>
+  <line x1="368" y1="139" x2="549" y2="139" stroke="#555555" stroke-width="0.5"/>
+
+  <!-- Divider -->
+  <line x1="36" y1="148" x2="549" y2="148" stroke="#CCCCCC" stroke-width="0.4"/>
+
+  <!-- ============================================================ -->
+  <!-- COLOR DEPTH                                                  -->
+  <!-- ============================================================ -->
+  <rect x="36" y="148" width="513" height="15" fill="#222222"/>
+  <text x="42" y="159" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">COLOR DEPTH</text>
+
+  <text x="42" y="177" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Select one:</text>
+
+  <!-- Water White -->
+  <rect x="96" y="167" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="108" y="177" font-family="Lato,sans-serif" font-size="8" fill="#333333">Water White</text>
+
+  <!-- Pale -->
+  <rect x="183" y="167" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="195" y="177" font-family="Lato,sans-serif" font-size="8" fill="#333333">Pale</text>
+
+  <!-- Medium -->
+  <rect x="226" y="167" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="238" y="177" font-family="Lato,sans-serif" font-size="8" fill="#333333">Medium</text>
+
+  <!-- Deep -->
+  <rect x="291" y="167" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="303" y="177" font-family="Lato,sans-serif" font-size="8" fill="#333333">Deep</text>
+
+  <!-- Very Deep -->
+  <rect x="338" y="167" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="350" y="177" font-family="Lato,sans-serif" font-size="8" fill="#333333">Very Deep</text>
+
+  <!-- Opaque -->
+  <rect x="413" y="167" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="425" y="177" font-family="Lato,sans-serif" font-size="8" fill="#333333">Opaque</text>
+
+  <!-- ============================================================ -->
+  <!-- HUE — RED WINES                                             -->
+  <!-- ============================================================ -->
+  <rect x="36" y="185" width="513" height="15" fill="#222222"/>
+  <text x="42" y="196" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">HUE — RED WINES</text>
+
+  <text x="42" y="214" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Select one:</text>
+
+  <!-- Purple -->
+  <rect x="96" y="204" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="108" y="214" font-family="Lato,sans-serif" font-size="8" fill="#333333">Purple</text>
+
+  <!-- Ruby -->
+  <rect x="156" y="204" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="168" y="214" font-family="Lato,sans-serif" font-size="8" fill="#333333">Ruby</text>
+
+  <!-- Garnet -->
+  <rect x="204" y="204" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="216" y="214" font-family="Lato,sans-serif" font-size="8" fill="#333333">Garnet</text>
+
+  <!-- Brick -->
+  <rect x="262" y="204" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="274" y="214" font-family="Lato,sans-serif" font-size="8" fill="#333333">Brick</text>
+
+  <!-- Tawny -->
+  <rect x="310" y="204" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="322" y="214" font-family="Lato,sans-serif" font-size="8" fill="#333333">Tawny</text>
+
+  <!-- Brown -->
+  <rect x="366" y="204" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="378" y="214" font-family="Lato,sans-serif" font-size="8" fill="#333333">Brown</text>
+
+  <!-- ============================================================ -->
+  <!-- HUE — WHITE / ROSE WINES                                    -->
+  <!-- ============================================================ -->
+  <rect x="36" y="222" width="513" height="15" fill="#222222"/>
+  <text x="42" y="233" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">HUE — WHITE / ROSE WINES</text>
+
+  <text x="42" y="251" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Select one:</text>
+
+  <!-- Lemon -->
+  <rect x="96" y="241" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="108" y="251" font-family="Lato,sans-serif" font-size="8" fill="#333333">Lemon</text>
+
+  <!-- Green-Gold -->
+  <rect x="154" y="241" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="166" y="251" font-family="Lato,sans-serif" font-size="8" fill="#333333">Green-Gold</text>
+
+  <!-- Gold -->
+  <rect x="241" y="241" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="253" y="251" font-family="Lato,sans-serif" font-size="8" fill="#333333">Gold</text>
+
+  <!-- Amber -->
+  <rect x="285" y="241" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="297" y="251" font-family="Lato,sans-serif" font-size="8" fill="#333333">Amber</text>
+
+  <!-- Pink -->
+  <rect x="337" y="241" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="349" y="251" font-family="Lato,sans-serif" font-size="8" fill="#333333">Pink</text>
+
+  <!-- Salmon -->
+  <rect x="380" y="241" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="392" y="251" font-family="Lato,sans-serif" font-size="8" fill="#333333">Salmon</text>
+
+  <!-- Copper -->
+  <rect x="438" y="241" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="450" y="251" font-family="Lato,sans-serif" font-size="8" fill="#333333">Copper</text>
+
+  <!-- ============================================================ -->
+  <!-- CLARITY AND BRILLIANCE                                       -->
+  <!-- ============================================================ -->
+  <rect x="36" y="259" width="513" height="15" fill="#222222"/>
+  <text x="42" y="270" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">CLARITY &amp; BRILLIANCE</text>
+
+  <!-- Clarity row -->
+  <text x="42" y="288" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Clarity:</text>
+
+  <rect x="84" y="278" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="96" y="288" font-family="Lato,sans-serif" font-size="8" fill="#333333">Brilliant</text>
+
+  <rect x="142" y="278" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="154" y="288" font-family="Lato,sans-serif" font-size="8" fill="#333333">Clear</text>
+
+  <rect x="191" y="278" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="203" y="288" font-family="Lato,sans-serif" font-size="8" fill="#333333">Hazy</text>
+
+  <rect x="234" y="278" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="246" y="288" font-family="Lato,sans-serif" font-size="8" fill="#333333">Cloudy</text>
+
+  <!-- Brilliance row -->
+  <text x="310" y="288" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Brilliance:</text>
+
+  <rect x="358" y="278" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="370" y="288" font-family="Lato,sans-serif" font-size="8" fill="#333333">Bright</text>
+
+  <rect x="407" y="278" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="419" y="288" font-family="Lato,sans-serif" font-size="8" fill="#333333">Medium</text>
+
+  <rect x="466" y="278" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="478" y="288" font-family="Lato,sans-serif" font-size="8" fill="#333333">Dull</text>
+
+  <!-- Sediment row -->
+  <text x="42" y="304" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Sediment:</text>
+
+  <rect x="90" y="294" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="102" y="304" font-family="Lato,sans-serif" font-size="8" fill="#333333">None</text>
+
+  <rect x="136" y="294" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="148" y="304" font-family="Lato,sans-serif" font-size="8" fill="#333333">Slight</text>
+
+  <rect x="184" y="294" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="196" y="304" font-family="Lato,sans-serif" font-size="8" fill="#333333">Heavy</text>
+
+  <!-- Effervescence row -->
+  <text x="280" y="304" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Effervescence (if sparkling):</text>
+
+  <rect x="430" y="294" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="442" y="304" font-family="Lato,sans-serif" font-size="8" fill="#333333">Fine</text>
+
+  <rect x="468" y="294" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="480" y="304" font-family="Lato,sans-serif" font-size="8" fill="#333333">Coarse</text>
+
+  <!-- ============================================================ -->
+  <!-- VISCOSITY / LEGS                                             -->
+  <!-- ============================================================ -->
+  <rect x="36" y="312" width="513" height="15" fill="#222222"/>
+  <text x="42" y="323" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">VISCOSITY / LEGS</text>
+
+  <text x="42" y="341" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Body weight:</text>
+
+  <rect x="104" y="331" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="116" y="341" font-family="Lato,sans-serif" font-size="8" fill="#333333">Light</text>
+
+  <rect x="150" y="331" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="162" y="341" font-family="Lato,sans-serif" font-size="8" fill="#333333">Medium</text>
+
+  <rect x="213" y="331" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="225" y="341" font-family="Lato,sans-serif" font-size="8" fill="#333333">Full</text>
+
+  <text x="280" y="341" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Legs speed:</text>
+
+  <rect x="330" y="331" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="342" y="341" font-family="Lato,sans-serif" font-size="8" fill="#333333">Fast (thin)</text>
+
+  <rect x="408" y="331" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="420" y="341" font-family="Lato,sans-serif" font-size="8" fill="#333333">Slow (thick)</text>
+
+  <!-- ============================================================ -->
+  <!-- VISUAL SKETCH AND NOTES                                      -->
+  <!-- ============================================================ -->
+  <rect x="36" y="349" width="513" height="15" fill="#222222"/>
+  <text x="42" y="360" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">VISUAL SKETCH &amp; NOTES</text>
+
+  <!-- Left column: sketch box -->
+  <rect x="36" y="364" width="145" height="145" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <!-- Guide lines inside sketch box -->
+  <text x="108" y="423" font-family="Lato,sans-serif" font-size="7.5" fill="#CCCCCC" text-anchor="middle">sketch wine</text>
+  <text x="108" y="435" font-family="Lato,sans-serif" font-size="7.5" fill="#CCCCCC" text-anchor="middle">color here</text>
+  <!-- Faint glass outline guide -->
+  <ellipse cx="108" cy="458" rx="34" ry="7" fill="none" stroke="#EEEEEE" stroke-width="0.5"/>
+  <line x1="74" y1="395" x2="74" y2="458" stroke="#EEEEEE" stroke-width="0.5"/>
+  <line x1="142" y1="395" x2="142" y2="458" stroke="#EEEEEE" stroke-width="0.5"/>
+  <ellipse cx="108" cy="395" rx="34" ry="7" fill="none" stroke="#EEEEEE" stroke-width="0.5"/>
+
+  <!-- Right column: appearance notes -->
+  <rect x="189" y="364" width="360" height="145" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="197" y="378" font-family="Lato,sans-serif" font-size="7.5" fill="#999999">Appearance Notes</text>
+  <line x1="189" y1="384" x2="549" y2="384" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="189" y1="404" x2="549" y2="404" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="189" y1="424" x2="549" y2="424" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="189" y1="444" x2="549" y2="444" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="189" y1="464" x2="549" y2="464" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="189" y1="484" x2="549" y2="484" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="189" y1="504" x2="549" y2="504" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ============================================================ -->
+  <!-- OVERALL APPEARANCE RATING                                    -->
+  <!-- ============================================================ -->
+  <rect x="36" y="517" width="513" height="15" fill="#222222"/>
+  <text x="42" y="528" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">OVERALL APPEARANCE RATING</text>
+
+  <!-- Score box -->
+  <text x="42" y="548" font-family="Lato,sans-serif" font-size="8" fill="#444444">Score (1-10):</text>
+  <rect x="100" y="536" width="32" height="16" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+
+  <!-- Quality descriptor -->
+  <text x="145" y="548" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Descriptor:</text>
+
+  <rect x="200" y="536" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="212" y="547" font-family="Lato,sans-serif" font-size="8" fill="#333333">Faulty</text>
+
+  <rect x="252" y="536" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="264" y="547" font-family="Lato,sans-serif" font-size="8" fill="#333333">Acceptable</text>
+
+  <rect x="330" y="536" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="342" y="547" font-family="Lato,sans-serif" font-size="8" fill="#333333">Good</text>
+
+  <rect x="378" y="536" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="390" y="547" font-family="Lato,sans-serif" font-size="8" fill="#333333">Very Good</text>
+
+  <rect x="449" y="536" width="9" height="9" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="461" y="547" font-family="Lato,sans-serif" font-size="8" fill="#333333">Outstanding</text>
+
+  <!-- Comment line -->
+  <text x="42" y="566" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Quality comment:</text>
+  <line x1="126" y1="567" x2="549" y2="567" stroke="#555555" stroke-width="0.5"/>
+
+  <!-- ============================================================ -->
+  <!-- ADDITIONAL NOTES                                             -->
+  <!-- ============================================================ -->
+  <rect x="36" y="575" width="513" height="15" fill="#222222"/>
+  <text x="42" y="586" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">ADDITIONAL NOTES</text>
+
+  <!-- Writing lines -->
+  <rect x="36" y="590" width="513" height="70" fill="#FFFFFF" stroke="#333333" stroke-width="0.5"/>
+  <line x1="36" y1="608" x2="549" y2="608" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="36" y1="625" x2="549" y2="625" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="36" y1="642" x2="549" y2="642" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="36" y1="659" x2="549" y2="659" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- Page number -->
+  <text x="292" y="660" font-family="Lato,sans-serif" font-size="8" fill="#999999" text-anchor="middle">—  ___  —</text>
+
+</svg>

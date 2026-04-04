@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="648" viewBox="0 0 432 648">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- White background -->
+  <rect width="432" height="648" fill="#FFFFFF"/>
+
+  <!-- HEADER BAR -->
+  <rect x="27" y="54" width="378" height="26" fill="#000000"/>
+  <text x="216" y="71" font-family="Roboto,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2.5">WINES TO BUY</text>
+
+  <!-- TABLE COLUMN HEADERS -->
+  <rect x="27" y="80" width="378" height="20" fill="#333333"/>
+  <!-- Header text -->
+  <text x="37" y="94" font-family="Roboto,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" letter-spacing="1">GOT IT</text>
+  <text x="155" y="94" font-family="Roboto,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">WINE NAME</text>
+  <text x="315" y="94" font-family="Roboto,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">WHERE TO FIND IT</text>
+  <text x="375" y="94" font-family="Roboto,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">PRICE</text>
+
+  <!-- TABLE OUTER BORDER -->
+  <rect x="27" y="80" width="378" height="458" fill="none" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- VERTICAL COLUMN DIVIDERS -->
+  <!-- After checkbox col (x=27+60=87) -->
+  <line x1="87" y1="80" x2="87" y2="538" stroke="#000000" stroke-width="0.75"/>
+  <!-- After wine name col (x=87+198=285) -->
+  <line x1="285" y1="80" x2="285" y2="538" stroke="#000000" stroke-width="0.75"/>
+  <!-- After where col (x=285+60=345) -->
+  <line x1="345" y1="80" x2="345" y2="538" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- HORIZONTAL ROW DIVIDERS (14 rows x 32px = 448px, y=100 to y=548) -->
+  <line x1="27" y1="132" x2="405" y2="132" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="164" x2="405" y2="164" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="196" x2="405" y2="196" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="228" x2="405" y2="228" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="260" x2="405" y2="260" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="292" x2="405" y2="292" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="324" x2="405" y2="324" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="356" x2="405" y2="356" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="388" x2="405" y2="388" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="420" x2="405" y2="420" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="452" x2="405" y2="452" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="484" x2="405" y2="484" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="516" x2="405" y2="516" stroke="#000000" stroke-width="0.5"/>
+
+  <!-- CHECKBOXES - one per row, centered in 60px checkbox col (x=27 to x=87, center=57) -->
+  <!-- Box: 16x16, x=49, centered. Row centers: 116, 148, 180, 212, 244, 276, 308, 340, 372, 404, 436, 468, 500, 532 -->
+  <rect x="49" y="108" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="140" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="172" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="204" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="236" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="268" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="300" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="332" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="364" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="396" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="428" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="460" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="492" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="49" y="524" width="16" height="16" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- NOTES SECTION -->
+  <text x="27" y="550" font-family="Roboto,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">NOTES</text>
+  <line x1="27" y1="564" x2="405" y2="564" stroke="#000000" stroke-width="0.75"/>
+  <line x1="27" y1="579" x2="405" y2="579" stroke="#E0E0E0" stroke-width="0.5"/>
+
+  <!-- PAGE NUMBER -->
+  <text x="216" y="590" font-family="Roboto,sans-serif" font-size="9" fill="#000000" text-anchor="middle">- 1 -</text>
+</svg>

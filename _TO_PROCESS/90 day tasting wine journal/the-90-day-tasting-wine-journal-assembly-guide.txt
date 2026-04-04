@@ -1,0 +1,147 @@
+=====================================
+INTERIOR ASSEMBLY GUIDE — The 90-Day Tasting Wine Journal
+Target pages: 184 (180 content + 4 fixed pages; 184 is even — no blank page needed)
+Trim size: 8.5 x 11 inch
+=====================================
+
+PAGE STRUCTURE — IN THIS EXACT ORDER:
+
+Page 1:      Title page
+Page 2:      Copyright page
+Page 3:      How to use this book
+Pages 4-18:  wine-cellar-inventory-template.svg  (15 pages — Cellar Inventory Logs)
+Pages 19-158: detailed-tasting-template.svg      (140 pages — Detailed Tasting Entries)
+Pages 159-168: vintage-comparison-template.svg   (10 pages — Vintage Comparison Charts)
+Pages 169-182: monthly-acquisition-template.svg  (14 pages — Monthly Acquisition Logs)
+Page 183:    Thank you page
+Page 184:    Blank page (added to reach even page count)
+
+FONT: Playfair Display — download from https://fonts.google.com/specimen/Playfair+Display
+COLOR SCHEME: Black and white
+TOTAL PAGES: 184 (even — KDP compliant)
+
+MARGINS (set in Affinity Publisher master pages):
+  Inside (gutter): 0.500 in   [180 pages falls in the 151-300 range]
+  Outside:         0.375 in
+  Top:             0.750 in
+  Bottom:          0.750 in
+
+=====================================
+
+-------------------------------------
+PAGE 1 — TITLE PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+The 90-Day Tasting Wine Journal
+
+A Comprehensive Log for Serious Enthusiasts — with Cellar
+Inventory, Vintage Ratings & Detailed Flavor Profiles (2026)
+
+Author: Blissity Publications
+-------------------------------------
+
+-------------------------------------
+PAGE 2 — COPYRIGHT PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Copyright © 2026 Blissity Publications
+
+All rights reserved.
+
+No part of this publication may be reproduced, distributed, or transmitted
+in any form or by any means, including photocopying, recording, or other
+electronic or mechanical methods, without the prior written permission of
+the publisher.
+
+Printed in the USA
+
+First Edition
+-------------------------------------
+
+-------------------------------------
+PAGE 3 — HOW TO USE THIS BOOK
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+How to Use This Journal
+
+The 90-Day Tasting Wine Journal is designed for the serious wine
+enthusiast who wants to move beyond casual drinking and build a
+disciplined, analytical approach to experiencing wine. Whether you
+are managing an active cellar, developing your palate for WSET or
+sommelier study, or simply determined to deepen your knowledge over
+the next 90 days, this journal gives you the structure to do it
+properly.
+
+Your journal contains four types of pages, each serving a distinct
+purpose in building your wine knowledge and collection records.
+
+The Wine Cellar Inventory Log pages (pages 4-18) are your cellar's
+permanent record. Use them to document every bottle you own — its
+producer, vintage, varietal, storage location, quantity on hand,
+and purchase price. Update these logs whenever you add or remove
+bottles from your cellar. A well-maintained inventory protects
+your investment and ensures you always know exactly what you have
+and where it is.
+
+The Detailed Tasting Template pages (pages 19-158) are the heart
+of this journal. Use one page for every wine you evaluate. Work
+through each section methodically: begin with Sight to assess
+color, depth, and clarity; move to Nose to identify aromas and
+intensity; then evaluate the Palate for body, tannins, acidity,
+and finish; and conclude with your overall rating and food pairing
+notes. Writing in complete sentences — not just checked boxes —
+will sharpen your tasting vocabulary far more quickly than any
+other method.
+
+The Vintage Comparison Chart pages (pages 159-168) are for
+vertical tasting analysis. When you taste multiple vintages of
+the same wine, use one chart per wine to record how each year
+differs in color, aromas, body, tannin structure, acidity, and
+finish. Over time, these charts will reveal how a producer's
+style evolves and which vintages are peaking or declining.
+
+The Monthly Acquisition and Collection Progress Log pages
+(pages 169-182) give you a monthly financial and inventory
+snapshot. Record every bottle you acquire — including quantity,
+price per bottle, total spend, and storage location — and track
+your running collection total. Use the Notes section to reflect
+on your purchasing decisions, budget adherence, and any emerging
+gaps in your cellar.
+
+To get the most from this journal, commit to completing a tasting
+entry for every wine you open, regardless of how casual the
+occasion. The collectors who develop the most refined palates are
+those who record consistently, not just when the wine feels
+significant. Aim for at least one detailed tasting entry every
+two days over the 90-day period — your future self will thank you
+for the discipline.
+-------------------------------------
+
+-------------------------------------
+LAST PAGE — THANK YOU PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Thank you for choosing The 90-Day Tasting Wine Journal as your
+companion on this journey toward a deeper understanding of wine.
+
+The 90 days ahead of you are an extraordinary opportunity. Each
+bottle you open is a chance to train your palate, sharpen your
+analytical thinking, and build a personal archive of knowledge
+that no app or algorithm can replicate. The collectors and
+enthusiasts who commit to this kind of disciplined documentation
+consistently outpace those who rely on memory alone — and you
+have already made the choice to be among them. Use this journal
+faithfully, trust the process, and do not underestimate what
+90 days of focused attention can do for your relationship with
+wine.
+
+If this journal has made a difference for you, we would love to
+hear about it! Please take a moment to leave an honest review
+on Amazon — your feedback helps other readers find books that
+can make a real difference in their lives.
+
+Scroll back to the top and click the review button.
+
+With gratitude,
+Blissity Publications
+-------------------------------------

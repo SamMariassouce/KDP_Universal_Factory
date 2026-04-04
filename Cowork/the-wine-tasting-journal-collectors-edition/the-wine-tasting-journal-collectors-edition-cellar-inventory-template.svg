@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="720" viewBox="0 0 504 720">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- White background -->
+  <rect width="504" height="720" fill="#FFFFFF"/>
+
+  <!-- HEADER BAR -->
+  <rect x="36" y="54" width="441" height="28" fill="#000000"/>
+  <text x="257" y="73" font-family="Merriweather,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">CELLAR INVENTORY &amp; AGING TRACKER</text>
+
+  <!-- WINE NAME -->
+  <text x="36" y="97" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">WINE NAME</text>
+  <line x1="36" y1="112" x2="477" y2="112" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- VINTAGE / PRODUCER / REGION -->
+  <text x="36" y="127" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">VINTAGE</text>
+  <line x1="36" y1="142" x2="116" y2="142" stroke="#000000" stroke-width="0.75"/>
+  <text x="126" y="127" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">PRODUCER</text>
+  <line x1="126" y1="142" x2="306" y2="142" stroke="#000000" stroke-width="0.75"/>
+  <text x="316" y="127" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">REGION / APPELLATION</text>
+  <line x1="316" y1="142" x2="477" y2="142" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- GRAPE / CLASSIFICATION / ABV -->
+  <text x="36" y="157" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">GRAPE VARIETY</text>
+  <line x1="36" y1="172" x2="196" y2="172" stroke="#000000" stroke-width="0.75"/>
+  <text x="206" y="157" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">CLASSIFICATION</text>
+  <line x1="206" y1="172" x2="386" y2="172" stroke="#000000" stroke-width="0.75"/>
+  <text x="396" y="157" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">ABV %</text>
+  <line x1="396" y1="172" x2="477" y2="172" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- DATE / PRICE / VENDOR -->
+  <text x="36" y="187" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">DATE ACQUIRED</text>
+  <line x1="36" y1="202" x2="166" y2="202" stroke="#000000" stroke-width="0.75"/>
+  <text x="176" y="187" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">PRICE / BOTTLE</text>
+  <line x1="176" y1="202" x2="296" y2="202" stroke="#000000" stroke-width="0.75"/>
+  <text x="306" y="187" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">VENDOR / SOURCE</text>
+  <line x1="306" y1="202" x2="477" y2="202" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- DRINKING WINDOW + PEAK -->
+  <text x="36" y="217" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">DRINK WINDOW</text>
+  <text x="136" y="217" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">FROM</text>
+  <line x1="161" y1="222" x2="231" y2="222" stroke="#000000" stroke-width="0.75"/>
+  <text x="239" y="217" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">TO</text>
+  <line x1="253" y1="222" x2="323" y2="222" stroke="#000000" stroke-width="0.75"/>
+  <text x="333" y="217" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">PEAK YEAR</text>
+  <line x1="390" y1="222" x2="477" y2="222" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- STORAGE LOCATION -->
+  <text x="36" y="237" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">STORAGE LOCATION (BIN / RACK REF.)</text>
+  <line x1="36" y1="252" x2="477" y2="252" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- AGING NOTES -->
+  <text x="36" y="267" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">AGING NOTES / TASTING PROFILE</text>
+  <rect x="36" y="271" width="441" height="66" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <line x1="44" y1="289" x2="469" y2="289" stroke="#E0E0E0" stroke-width="0.5"/>
+  <line x1="44" y1="307" x2="469" y2="307" stroke="#E0E0E0" stroke-width="0.5"/>
+  <line x1="44" y1="325" x2="469" y2="325" stroke="#E0E0E0" stroke-width="0.5"/>
+
+  <!-- TASTING HISTORY heading -->
+  <line x1="36" y1="345" x2="477" y2="345" stroke="#000000" stroke-width="0.5"/>
+  <text x="36" y="358" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="2">TASTING HISTORY</text>
+
+  <!-- TASTING HISTORY table -->
+  <rect x="36" y="363" width="441" height="238" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Header row -->
+  <rect x="36" y="363" width="441" height="22" fill="#111111"/>
+  <text x="86" y="378" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">DATE TASTED</text>
+  <text x="176" y="378" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">RATING</text>
+  <text x="347" y="378" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">TASTING NOTES</text>
+
+  <!-- Column dividers -->
+  <line x1="136" y1="363" x2="136" y2="601" stroke="#000000" stroke-width="0.75"/>
+  <line x1="216" y1="363" x2="216" y2="601" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row dividers (4 rows of 54px each, starting at y=385) -->
+  <line x1="36" y1="385" x2="477" y2="385" stroke="#000000" stroke-width="0.5"/>
+  <line x1="36" y1="439" x2="477" y2="439" stroke="#000000" stroke-width="0.5"/>
+  <line x1="36" y1="493" x2="477" y2="493" stroke="#000000" stroke-width="0.5"/>
+  <line x1="36" y1="547" x2="477" y2="547" stroke="#000000" stroke-width="0.5"/>
+
+  <!-- PAGE NUMBER -->
+  <text x="257" y="656" font-family="Merriweather,sans-serif" font-size="9" fill="#000000" text-anchor="middle">- 1 -</text>
+</svg>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="504" height="720" viewBox="0 0 504 720">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- White background -->
+  <rect width="504" height="720" fill="#FFFFFF"/>
+
+  <!-- HEADER BAR -->
+  <rect x="36" y="54" width="441" height="28" fill="#000000"/>
+  <text x="257" y="73" font-family="Merriweather,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">ADVANCED TECHNICAL TASTING SHEET</text>
+
+  <!-- WINE ID -->
+  <text x="36" y="97" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">WINE NAME</text>
+  <line x1="36" y1="112" x2="477" y2="112" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Vintage / Producer / Region -->
+  <text x="36" y="126" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">VINTAGE</text>
+  <line x1="36" y1="141" x2="116" y2="141" stroke="#000000" stroke-width="0.75"/>
+  <text x="126" y="126" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">PRODUCER</text>
+  <line x1="126" y1="141" x2="286" y2="141" stroke="#000000" stroke-width="0.75"/>
+  <text x="296" y="126" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">REGION</text>
+  <line x1="296" y1="141" x2="477" y2="141" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Grape / Classification / ABV -->
+  <text x="36" y="155" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">GRAPE VARIETY</text>
+  <line x1="36" y1="170" x2="196" y2="170" stroke="#000000" stroke-width="0.75"/>
+  <text x="206" y="155" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">CLASSIFICATION</text>
+  <line x1="206" y1="170" x2="386" y2="170" stroke="#000000" stroke-width="0.75"/>
+  <text x="396" y="155" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">ABV %</text>
+  <line x1="396" y1="170" x2="477" y2="170" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Date / Occasion / Decanted -->
+  <text x="36" y="184" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">DATE</text>
+  <line x1="36" y1="199" x2="136" y2="199" stroke="#000000" stroke-width="0.75"/>
+  <text x="146" y="184" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">OCCASION</text>
+  <line x1="146" y1="199" x2="356" y2="199" stroke="#000000" stroke-width="0.75"/>
+  <text x="366" y="184" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">DECANTED?</text>
+  <line x1="366" y1="199" x2="477" y2="199" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- APPEARANCE SECTION -->
+  <rect x="36" y="207" width="441" height="18" fill="#1A1A1A"/>
+  <text x="257" y="220" font-family="Merriweather,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">APPEARANCE</text>
+
+  <!-- Colour / Hue -->
+  <text x="36" y="237" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">COLOUR / HUE</text>
+  <line x1="36" y1="252" x2="477" y2="252" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Intensity inline checkboxes -->
+  <text x="36" y="268" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">INTENSITY</text>
+  <!-- LIGHT -->
+  <rect x="110" y="257" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="126" y="268" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">LIGHT</text>
+  <!-- MEDIUM -->
+  <rect x="195" y="257" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="211" y="268" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <!-- DEEP -->
+  <rect x="290" y="257" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="306" y="268" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">DEEP</text>
+  <!-- OPAQUE -->
+  <rect x="366" y="257" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="382" y="268" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">OPAQUE</text>
+
+  <!-- Clarity inline checkboxes -->
+  <text x="36" y="285" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">CLARITY</text>
+  <!-- CLEAR -->
+  <rect x="110" y="274" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="126" y="285" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">CLEAR</text>
+  <!-- HAZY -->
+  <rect x="230" y="274" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="246" y="285" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">HAZY</text>
+  <!-- CLOUDY -->
+  <rect x="350" y="274" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="366" y="285" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">CLOUDY</text>
+
+  <!-- NOSE SECTION -->
+  <rect x="36" y="293" width="441" height="18" fill="#1A1A1A"/>
+  <text x="257" y="306" font-family="Merriweather,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">NOSE</text>
+
+  <!-- Primary / Secondary / Tertiary aromas -->
+  <text x="36" y="323" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">PRIMARY AROMAS</text>
+  <line x1="36" y1="338" x2="477" y2="338" stroke="#000000" stroke-width="0.75"/>
+  <text x="36" y="352" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">SECONDARY AROMAS</text>
+  <line x1="36" y1="367" x2="477" y2="367" stroke="#000000" stroke-width="0.75"/>
+  <text x="36" y="381" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">TERTIARY / BOUQUET</text>
+  <line x1="36" y1="396" x2="477" y2="396" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Nose intensity inline -->
+  <text x="36" y="411" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">INTENSITY</text>
+  <rect x="110" y="400" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="126" y="411" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">VERY LIGHT</text>
+  <rect x="226" y="400" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="242" y="411" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">LIGHT</text>
+  <rect x="311" y="400" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="327" y="411" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <rect x="408" y="400" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="424" y="411" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">PRNCD</text>
+
+  <!-- PALATE SECTION -->
+  <rect x="36" y="419" width="441" height="18" fill="#1A1A1A"/>
+  <text x="257" y="432" font-family="Merriweather,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">PALATE</text>
+
+  <!-- Scale note -->
+  <text x="477" y="445" font-family="Merriweather,sans-serif" font-size="6" fill="#888888" text-anchor="end">1 = low   5 = high</text>
+
+  <!-- SWEETNESS scale (left) + ACIDITY scale (right) -->
+  <text x="36" y="457" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">SWEETNESS</text>
+  <rect x="118" y="445" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="136" y="445" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="154" y="445" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="172" y="445" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="190" y="445" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <text x="259" y="457" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">ACIDITY</text>
+  <rect x="320" y="445" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="338" y="445" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="356" y="445" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="374" y="445" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="392" y="445" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- TANNIN (left) + BODY (right) -->
+  <text x="36" y="475" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">TANNIN</text>
+  <rect x="118" y="463" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="136" y="463" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="154" y="463" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="172" y="463" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="190" y="463" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <text x="259" y="475" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">BODY</text>
+  <rect x="320" y="463" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="338" y="463" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="356" y="463" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="374" y="463" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="392" y="463" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- ALCOHOL (left) + FINISH LENGTH (right) -->
+  <text x="36" y="493" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">ALCOHOL</text>
+  <rect x="118" y="481" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="136" y="481" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="154" y="481" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="172" y="481" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="190" y="481" width="15" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Finish checkboxes -->
+  <text x="259" y="493" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">FINISH</text>
+  <rect x="308" y="481" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="324" y="492" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">SHORT</text>
+  <rect x="371" y="481" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="387" y="492" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">LONG</text>
+  <rect x="424" y="481" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="440" y="492" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">V.LNG</text>
+
+  <!-- FLAVOUR NOTES -->
+  <text x="36" y="507" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">FLAVOUR NOTES</text>
+  <rect x="36" y="511" width="441" height="50" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <line x1="44" y1="527" x2="469" y2="527" stroke="#E0E0E0" stroke-width="0.5"/>
+  <line x1="44" y1="543" x2="469" y2="543" stroke="#E0E0E0" stroke-width="0.5"/>
+
+  <!-- CONCLUSIONS SECTION -->
+  <rect x="36" y="569" width="441" height="18" fill="#1A1A1A"/>
+  <text x="257" y="582" font-family="Merriweather,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">CONCLUSIONS</text>
+
+  <!-- Quality Level -->
+  <text x="36" y="597" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">QUALITY</text>
+  <rect x="101" y="586" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="117" y="597" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">POOR</text>
+  <rect x="165" y="586" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="181" y="597" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">ACCEPT.</text>
+  <rect x="241" y="586" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="257" y="597" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">GOOD</text>
+  <rect x="307" y="586" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="323" y="597" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">V.GOOD</text>
+  <rect x="383" y="586" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="399" y="597" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">OUTST.</text>
+
+  <!-- Readiness -->
+  <text x="36" y="614" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">READINESS</text>
+  <rect x="101" y="603" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="117" y="614" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">DRINK NOW</text>
+  <rect x="213" y="603" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="229" y="614" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">CAN HOLD</text>
+  <rect x="323" y="603" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="339" y="614" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">MUST HOLD</text>
+  <rect x="433" y="603" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="449" y="614" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">PEAK</text>
+
+  <!-- Score + Drinking Window -->
+  <text x="36" y="631" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">SCORE</text>
+  <line x1="80" y1="633" x2="140" y2="633" stroke="#000000" stroke-width="0.75"/>
+  <text x="144" y="631" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">/ 100</text>
+  <text x="185" y="631" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">OPTIMAL WINDOW</text>
+  <text x="307" y="631" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">FROM</text>
+  <line x1="331" y1="633" x2="391" y2="633" stroke="#000000" stroke-width="0.75"/>
+  <text x="399" y="631" font-family="Merriweather,sans-serif" font-size="7" fill="#000000">TO</text>
+  <line x1="415" y1="633" x2="477" y2="633" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Summary Notes - single line -->
+  <text x="36" y="645" font-family="Merriweather,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">SUMMARY IMPRESSION</text>
+  <line x1="36" y1="658" x2="477" y2="658" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- PAGE NUMBER -->
+  <text x="257" y="666" font-family="Merriweather,sans-serif" font-size="8" fill="#000000" text-anchor="middle">- 1 -</text>
+</svg>

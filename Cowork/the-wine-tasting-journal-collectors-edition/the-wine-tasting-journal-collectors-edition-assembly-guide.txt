@@ -1,0 +1,168 @@
+=====================================
+INTERIOR ASSEMBLY GUIDE — The Wine Tasting Journal: Collector's Edition
+Target pages: 200
+Trim size: 7 x 10
+=====================================
+
+PAGE STRUCTURE:
+Page 1:      Title page
+Page 2:      Copyright page
+Pages 3-4:   How to use
+Pages 5-34:  cellar-inventory-template.svg
+Pages 35-184: tasting-sheet-template.svg
+Pages 185-199: investment-log-template.svg
+Page 200:    Thank you
+
+TOTAL: 200 pages (even). No blank page needed.
+
+FONT: Merriweather
+COLOR SCHEME: Black and white
+MARGINS:
+  Inside: 0.500 in | Outside: 0.375 in | Top: 0.75 in | Bottom: 0.75 in
+=====================================
+
+SVG DIMENSIONS: 504 x 720 px (at 72 DPI)
+
+AFFINITY PUBLISHER SETUP:
+1. New document: 7 x 10 in, 200 pages, facing pages ON
+2. Set bleed: 0.125 in all sides
+3. Set margins to match safe area above
+4. Import each SVG as a master page
+5. Place SVGs on master pages and apply as needed
+6. Page numbers: use Affinity Publisher's auto page numbering;
+   delete the placeholder "- 1 -" text from each template once
+   master pages are configured.
+7. Export: File > Export > PDF (Print) > PDF/X-1a, 300 DPI
+
+=====================================
+
+-------------------------------------
+PAGE 1 — TITLE PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+The Wine Tasting Journal: Collector's Edition
+
+A Permanent Record for Your Wine Cellar, Tasting Events,
+and Professional Ratings
+
+Author: Blissity Publications
+-------------------------------------
+
+-------------------------------------
+PAGE 2 — COPYRIGHT PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Copyright © 2026 Blissity Publications
+
+All rights reserved.
+
+No part of this publication may be reproduced, distributed, or transmitted
+in any form or by any means, including photocopying, recording, or other
+electronic or mechanical methods, without the prior written permission of
+the publisher.
+
+Printed in the USA
+
+First Edition
+-------------------------------------
+
+-------------------------------------
+PAGES 3-4 — HOW TO USE THIS BOOK (2 pages)
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Welcome to The Wine Tasting Journal: Collector's Edition — a permanent
+reference built for the serious wine collector. This is not a casual
+tasting diary. It is a professional archive designed to document your
+cellar, track the technical merits of the wines you evaluate, and record
+the investment value of the bottles you acquire. Over time, this journal
+becomes one of the most valuable documents in your collection.
+
+This journal contains three distinct sections, each with a specific
+purpose. Here is how to use each one.
+
+CELLAR INVENTORY AND AGING TRACKER (pages 5-34)
+
+Use these pages to record every bottle or case you bring into your cellar.
+Each entry captures the essential details of a wine's identity — producer,
+vintage, appellation, and grape variety — alongside your acquisition
+details, including purchase date, price, and vendor. The aging fields
+allow you to record your optimal drinking window, your projected peak
+year, and your storage location so you can find any bottle at a glance.
+
+The aging notes section is where you record the winemaking profile of the
+bottle: its expected development arc, its tannin structure at the time of
+purchase, and any expert opinions or critic scores that informed your
+buying decision. At the bottom, the tasting history table gives you space
+to log brief impressions each time you open a bottle from the case — so
+you can track how the wine evolves across multiple openings over the years.
+
+Reserve one inventory page per wine or per case. If you have multiple
+vintages of the same producer, give each its own page.
+
+ADVANCED TECHNICAL TASTING SHEETS (pages 35-184)
+
+These pages are the analytical core of the journal. Each sheet is built
+around a systematic approach to wine evaluation: Appearance, Nose, Palate,
+and Conclusions. You are guided through every dimension of the wine — from
+colour intensity and clarity, through primary, secondary, and tertiary
+aromas, to a five-point scale assessment of sweetness, acidity, tannin,
+body, and alcohol. The conclusions section records a quality rating,
+drinking readiness, an optimal window, and a score.
+
+Use one tasting sheet per wine per occasion. If you taste the same wine
+across multiple sittings or vintages, give each its own sheet. These
+sheets are ideal for formal tastings, cellar evaluations, competitive
+blind tastings, and structured comparative flights.
+
+Be as precise as you can in your descriptors. The more specific your
+language, the more useful this record will be when you return to it in
+five or ten years.
+
+WINE INVESTMENT AND VALUE LOGS (pages 185-204)
+
+These pages are designed for collectors who approach fine wine as an
+asset. Each log captures the full financial profile of a position in your
+cellar: purchase details, insurance valuation, current bottles remaining,
+and a five-row market value history table so you can track appreciation
+over time. The disposition section records what happened to the wine
+when you eventually sold it, drank it, or gifted it — and whether you
+made or lost money on the position.
+
+Use one investment log per wine position or per case purchase. Update
+the market value history table annually or whenever you receive a new
+valuation from your merchant or auction house.
+
+A few notes for best results:
+
+Write in pen, not pencil. This is a permanent record. Use consistent
+date formatting across all entries — for example, always write dates
+as DD/MM/YYYY or YYYY-MM-DD. Cross-reference your tasting sheets to
+your cellar inventory pages by noting the page number of each tasting
+entry in the tasting history table. Over time this journal becomes
+a searchable reference for every wine you have ever owned or evaluated.
+-------------------------------------
+
+-------------------------------------
+LAST PAGE (PAGE 200) — THANK YOU PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Thank you for choosing The Wine Tasting Journal: Collector's Edition as
+the permanent record for your cellar and your palate.
+
+The bottles you have documented in these pages represent more than an
+investment — they represent years of pursuit, discernment, and the
+quiet pleasure of knowing exactly what is in your cellar and why it
+belongs there. We hope this journal proves worthy of the wines it holds.
+Use it consistently, return to it often, and let it grow into the
+authoritative record it was designed to be.
+
+If this journal has served your collection well, we would love to hear
+about it. Please take a moment to leave an honest review on Amazon —
+your feedback helps other serious collectors find books built to the
+standard they expect.
+
+Scroll back to the top and click the review button.
+
+With gratitude,
+Blissity Publications
+-------------------------------------

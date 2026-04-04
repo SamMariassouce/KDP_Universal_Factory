@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="720" viewBox="0 0 576 720">
+
+  <!-- Page background -->
+  <rect width="576" height="720" fill="#FFFFFF"/>
+
+  <!-- Outer border (safe area) -->
+  <rect x="36" y="54" width="513" height="612" fill="none" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- ============================================================ -->
+  <!-- TITLE BAR                                                    -->
+  <!-- ============================================================ -->
+  <rect x="36" y="54" width="513" height="24" fill="#000000"/>
+  <text x="292" y="71" font-family="Lato,sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">DETAILED FLAVOR MAPPING</text>
+
+  <!-- ============================================================ -->
+  <!-- WINE IDENTIFICATION (compact)                               -->
+  <!-- ============================================================ -->
+  <rect x="36" y="78" width="513" height="14" fill="#444444"/>
+  <text x="42" y="88" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">WINE IDENTIFICATION</text>
+
+  <!-- Single compact row -->
+  <text x="42" y="103" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">WINE</text>
+  <line x1="64" y1="105" x2="230" y2="105" stroke="#555555" stroke-width="0.5"/>
+  <text x="236" y="103" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">VINTAGE</text>
+  <line x1="268" y1="105" x2="316" y2="105" stroke="#555555" stroke-width="0.5"/>
+  <text x="322" y="103" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">REGION</text>
+  <line x1="352" y1="105" x2="443" y2="105" stroke="#555555" stroke-width="0.5"/>
+  <text x="449" y="103" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">DATE</text>
+  <line x1="467" y1="105" x2="549" y2="105" stroke="#555555" stroke-width="0.5"/>
+
+  <!-- ============================================================ -->
+  <!-- APPEARANCE (brief)                                           -->
+  <!-- ============================================================ -->
+  <rect x="36" y="112" width="513" height="14" fill="#333333"/>
+  <text x="42" y="122" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">APPEARANCE SUMMARY</text>
+
+  <text x="42" y="136" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">COLOR / CLARITY:</text>
+  <line x1="120" y1="137" x2="549" y2="137" stroke="#555555" stroke-width="0.5"/>
+
+  <!-- ============================================================ -->
+  <!-- NOSE / AROMA                                                 -->
+  <!-- ============================================================ -->
+  <rect x="36" y="144" width="513" height="14" fill="#000000"/>
+  <text x="42" y="154" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="2">NOSE / AROMA</text>
+
+  <!-- Sub-header: Primary Aromas -->
+  <rect x="36" y="158" width="513" height="12" fill="#555555"/>
+  <text x="42" y="167" font-family="Lato,sans-serif" font-size="7.5" font-weight="700" fill="#FFFFFF">PRIMARY AROMAS (Fruit)</text>
+
+  <!-- Fruit checkboxes row 1 -->
+  <rect x="42" y="172" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="52" y="180" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Red fruits</text>
+
+  <rect x="105" y="172" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="115" y="180" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Black fruits</text>
+
+  <rect x="172" y="172" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="182" y="180" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Citrus</text>
+
+  <rect x="220" y="172" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="230" y="180" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Stone fruit</text>
+
+  <rect x="285" y="172" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="295" y="180" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Tropical</text>
+
+  <rect x="340" y="172" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="350" y="180" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Dried fruit</text>
+
+  <rect x="403" y="172" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="413" y="180" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Floral</text>
+
+  <!-- Primary notes line -->
+  <text x="42" y="194" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">Describe:</text>
+  <line x1="82" y1="195" x2="549" y2="195" stroke="#CCCCCC" stroke-width="0.4"/>
+
+  <!-- Sub-header: Secondary Aromas -->
+  <rect x="36" y="201" width="513" height="12" fill="#555555"/>
+  <text x="42" y="210" font-family="Lato,sans-serif" font-size="7.5" font-weight="700" fill="#FFFFFF">SECONDARY AROMAS (Earth / Mineral / Vegetal)</text>
+
+  <!-- Secondary checkboxes -->
+  <rect x="42" y="215" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="52" y="223" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Earth / Soil</text>
+
+  <rect x="115" y="215" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="125" y="223" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Mineral / Flint</text>
+
+  <rect x="205" y="215" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="215" y="223" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Herbaceous</text>
+
+  <rect x="279" y="215" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="289" y="223" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Vegetal</text>
+
+  <rect x="330" y="215" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="340" y="223" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Yeast / Bread</text>
+
+  <rect x="412" y="215" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="422" y="223" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Lactic</text>
+
+  <text x="42" y="237" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">Describe:</text>
+  <line x1="82" y1="238" x2="549" y2="238" stroke="#CCCCCC" stroke-width="0.4"/>
+
+  <!-- Sub-header: Tertiary Aromas -->
+  <rect x="36" y="244" width="513" height="12" fill="#555555"/>
+  <text x="42" y="253" font-family="Lato,sans-serif" font-size="7.5" font-weight="700" fill="#FFFFFF">TERTIARY AROMAS (Oak / Bottle Age / Development)</text>
+
+  <!-- Tertiary checkboxes -->
+  <rect x="42" y="258" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="52" y="266" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Vanilla / Oak</text>
+
+  <rect x="122" y="258" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="132" y="266" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Toast / Smoke</text>
+
+  <rect x="205" y="258" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="215" y="266" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Leather / Game</text>
+
+  <rect x="294" y="258" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="304" y="266" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Coffee / Cocoa</text>
+
+  <rect x="381" y="258" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="391" y="266" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Dried herbs</text>
+
+  <rect x="452" y="258" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="462" y="266" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Mushroom</text>
+
+  <text x="42" y="280" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">Describe:</text>
+  <line x1="82" y1="281" x2="549" y2="281" stroke="#CCCCCC" stroke-width="0.4"/>
+
+  <!-- ============================================================ -->
+  <!-- PALATE STRUCTURE                                             -->
+  <!-- ============================================================ -->
+  <rect x="36" y="288" width="513" height="14" fill="#000000"/>
+  <text x="42" y="298" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="2">PALATE STRUCTURE</text>
+
+  <!-- Scale labels -->
+  <text x="42" y="312" font-family="Lato,sans-serif" font-size="7" fill="#888888">Low</text>
+  <text x="219" y="312" font-family="Lato,sans-serif" font-size="7" fill="#888888" text-anchor="middle">Medium</text>
+  <text x="396" y="312" font-family="Lato,sans-serif" font-size="7" fill="#888888" text-anchor="middle">High</text>
+
+  <!-- Scale track line -->
+  <line x1="42" y1="315" x2="396" y2="315" stroke="#CCCCCC" stroke-width="6"/>
+
+  <!-- Helper: define scale row macro (drawn manually for each attribute) -->
+  <!-- SWEETNESS -->
+  <text x="42" y="332" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#333333">Sweetness</text>
+  <rect x="130" y="323" width="266" height="12" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.5"/>
+  <!-- tick marks -->
+  <line x1="130" y1="323" x2="130" y2="335" stroke="#999999" stroke-width="0.5"/>
+  <line x1="196" y1="327" x2="196" y2="335" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="263" y1="327" x2="263" y2="335" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="329" y1="327" x2="329" y2="335" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="396" y1="323" x2="396" y2="335" stroke="#999999" stroke-width="0.5"/>
+  <text x="408" y="333" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">Dry — Sweet</text>
+
+  <!-- ACIDITY -->
+  <text x="42" y="351" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#333333">Acidity</text>
+  <rect x="130" y="342" width="266" height="12" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="130" y1="342" x2="130" y2="354" stroke="#999999" stroke-width="0.5"/>
+  <line x1="196" y1="346" x2="196" y2="354" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="263" y1="346" x2="263" y2="354" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="329" y1="346" x2="329" y2="354" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="396" y1="342" x2="396" y2="354" stroke="#999999" stroke-width="0.5"/>
+  <text x="408" y="352" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">Flat — Crisp</text>
+
+  <!-- TANNIN -->
+  <text x="42" y="370" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#333333">Tannin</text>
+  <rect x="130" y="361" width="266" height="12" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="130" y1="361" x2="130" y2="373" stroke="#999999" stroke-width="0.5"/>
+  <line x1="196" y1="365" x2="196" y2="373" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="263" y1="365" x2="263" y2="373" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="329" y1="365" x2="329" y2="373" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="396" y1="361" x2="396" y2="373" stroke="#999999" stroke-width="0.5"/>
+  <text x="408" y="371" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">Silky — Grippy</text>
+
+  <!-- BODY -->
+  <text x="42" y="389" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#333333">Body</text>
+  <rect x="130" y="380" width="266" height="12" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="130" y1="380" x2="130" y2="392" stroke="#999999" stroke-width="0.5"/>
+  <line x1="196" y1="384" x2="196" y2="392" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="263" y1="384" x2="263" y2="392" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="329" y1="384" x2="329" y2="392" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="396" y1="380" x2="396" y2="392" stroke="#999999" stroke-width="0.5"/>
+  <text x="408" y="390" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">Light — Full</text>
+
+  <!-- ALCOHOL -->
+  <text x="42" y="408" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#333333">Alcohol</text>
+  <rect x="130" y="399" width="266" height="12" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="130" y1="399" x2="130" y2="411" stroke="#999999" stroke-width="0.5"/>
+  <line x1="196" y1="403" x2="196" y2="411" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="263" y1="403" x2="263" y2="411" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="329" y1="403" x2="329" y2="411" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="396" y1="399" x2="396" y2="411" stroke="#999999" stroke-width="0.5"/>
+  <text x="408" y="409" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">Low — Hot</text>
+
+  <!-- FINISH -->
+  <text x="42" y="427" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#333333">Finish</text>
+  <rect x="130" y="418" width="266" height="12" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="130" y1="418" x2="130" y2="430" stroke="#999999" stroke-width="0.5"/>
+  <line x1="196" y1="422" x2="196" y2="430" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="263" y1="422" x2="263" y2="430" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="329" y1="422" x2="329" y2="430" stroke="#CCCCCC" stroke-width="0.4"/>
+  <line x1="396" y1="418" x2="396" y2="430" stroke="#999999" stroke-width="0.5"/>
+  <text x="408" y="428" font-family="Lato,sans-serif" font-size="7.5" fill="#666666">Short — Long</text>
+
+  <!-- ============================================================ -->
+  <!-- FLAVOR MAPPING                                               -->
+  <!-- ============================================================ -->
+  <rect x="36" y="437" width="513" height="14" fill="#000000"/>
+  <text x="42" y="447" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="2">FLAVOR MAPPING — PALATE NOTES</text>
+
+  <rect x="36" y="451" width="513" height="70" fill="#FFFFFF" stroke="#333333" stroke-width="0.5"/>
+  <line x1="36" y1="470" x2="549" y2="470" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="36" y1="490" x2="549" y2="490" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="36" y1="510" x2="549" y2="510" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ============================================================ -->
+  <!-- CONCLUSIONS                                                  -->
+  <!-- ============================================================ -->
+  <rect x="36" y="521" width="513" height="14" fill="#000000"/>
+  <text x="42" y="531" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="2">CONCLUSIONS</text>
+
+  <!-- Food pairing -->
+  <text x="42" y="547" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Food Pairing:</text>
+  <line x1="102" y1="548" x2="549" y2="548" stroke="#555555" stroke-width="0.5"/>
+
+  <!-- Drink window -->
+  <text x="42" y="562" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Drink Window:</text>
+  <text x="108" y="562" font-family="Lato,sans-serif" font-size="7.5" fill="#999999">From</text>
+  <line x1="126" y1="563" x2="196" y2="563" stroke="#555555" stroke-width="0.5"/>
+  <text x="202" y="562" font-family="Lato,sans-serif" font-size="7.5" fill="#999999">To</text>
+  <line x1="216" y1="563" x2="286" y2="563" stroke="#555555" stroke-width="0.5"/>
+
+  <text x="300" y="562" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Drink now:</text>
+  <rect x="348" y="553" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="363" y="562" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Cellar:</text>
+  <rect x="394" y="553" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="409" y="562" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Passed peak:</text>
+  <rect x="473" y="553" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+
+  <!-- Score and Buy Again -->
+  <text x="42" y="577" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Overall Score (1-100):</text>
+  <rect x="148" y="568" width="36" height="14" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+
+  <text x="200" y="577" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Buy again:</text>
+  <rect x="244" y="568" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="255" y="577" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Yes</text>
+  <rect x="278" y="568" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="289" y="577" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">No</text>
+
+  <text x="320" y="577" font-family="Lato,sans-serif" font-size="7.5" fill="#444444">Value rating:</text>
+  <rect x="378" y="568" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="389" y="577" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Poor</text>
+  <rect x="415" y="568" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="426" y="577" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Fair</text>
+  <rect x="449" y="568" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="460" y="577" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Good</text>
+  <rect x="490" y="568" width="8" height="8" fill="#FFFFFF" stroke="#333333" stroke-width="0.75"/>
+  <text x="501" y="577" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Exc.</text>
+
+  <!-- ============================================================ -->
+  <!-- ADDITIONAL NOTES                                             -->
+  <!-- ============================================================ -->
+  <rect x="36" y="584" width="513" height="14" fill="#333333"/>
+  <text x="42" y="594" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">ADDITIONAL NOTES</text>
+
+  <rect x="36" y="598" width="513" height="62" fill="#FFFFFF" stroke="#333333" stroke-width="0.5"/>
+  <line x1="36" y1="618" x2="549" y2="618" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="36" y1="638" x2="549" y2="638" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="36" y1="658" x2="549" y2="658" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- Page number -->
+  <text x="292" y="660" font-family="Lato,sans-serif" font-size="8" fill="#999999" text-anchor="middle">—  ___  —</text>
+
+</svg>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="648" viewBox="0 0 432 648">
+
+  <!-- White background -->
+  <rect width="432" height="648" fill="#FFFFFF"/>
+
+  <!-- VINEYARD VISIT LOG header bar -->
+  <rect x="27" y="58" width="378" height="22" fill="#000000"/>
+  <text x="216" y="74" text-anchor="middle" font-family="Merriweather,sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF">VINEYARD VISIT LOG</text>
+
+  <!-- Vineyard Name -->
+  <text x="27" y="92" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">VINEYARD NAME</text>
+  <line x1="27" y1="100" x2="405" y2="100" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Location/Region + Date Visited -->
+  <text x="27" y="114" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">LOCATION / REGION</text>
+  <line x1="27" y1="122" x2="237" y2="122" stroke="#000000" stroke-width="0.75"/>
+  <text x="247" y="114" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">DATE VISITED</text>
+  <line x1="247" y1="122" x2="405" y2="122" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Website / Contact -->
+  <text x="27" y="136" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">WEBSITE / CONTACT</text>
+  <line x1="27" y1="144" x2="405" y2="144" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- ATMOSPHERE / SETTING section header -->
+  <rect x="27" y="154" width="378" height="18" fill="#000000"/>
+  <text x="216" y="167" text-anchor="middle" font-family="Merriweather,sans-serif" font-size="10" fill="#FFFFFF">ATMOSPHERE / SETTING</text>
+
+  <!-- Atmosphere write lines (2) -->
+  <line x1="27" y1="184" x2="405" y2="184" stroke="#000000" stroke-width="0.75"/>
+  <line x1="27" y1="199" x2="405" y2="199" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- WINES TASTED section header -->
+  <rect x="27" y="209" width="378" height="18" fill="#000000"/>
+  <text x="216" y="222" text-anchor="middle" font-family="Merriweather,sans-serif" font-size="10" fill="#FFFFFF">WINES TASTED</text>
+
+  <!-- Wine entry rows (4 rows): number + name line + 5 mini rating boxes -->
+  <!-- Row 1 -->
+  <text x="27" y="240" font-family="Merriweather,sans-serif" font-size="9" fill="#333333">1.</text>
+  <line x1="40" y1="242" x2="335" y2="242" stroke="#000000" stroke-width="0.75"/>
+  <rect x="339" y="232" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="350" y="232" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="361" y="232" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="372" y="232" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="383" y="232" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 2 -->
+  <text x="27" y="257" font-family="Merriweather,sans-serif" font-size="9" fill="#333333">2.</text>
+  <line x1="40" y1="259" x2="335" y2="259" stroke="#000000" stroke-width="0.75"/>
+  <rect x="339" y="249" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="350" y="249" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="361" y="249" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="372" y="249" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="383" y="249" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 3 -->
+  <text x="27" y="274" font-family="Merriweather,sans-serif" font-size="9" fill="#333333">3.</text>
+  <line x1="40" y1="276" x2="335" y2="276" stroke="#000000" stroke-width="0.75"/>
+  <rect x="339" y="266" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="350" y="266" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="361" y="266" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="372" y="266" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="383" y="266" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 4 -->
+  <text x="27" y="291" font-family="Merriweather,sans-serif" font-size="9" fill="#333333">4.</text>
+  <line x1="40" y1="293" x2="335" y2="293" stroke="#000000" stroke-width="0.75"/>
+  <rect x="339" y="283" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="350" y="283" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="361" y="283" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="372" y="283" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="383" y="283" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Standout Wine -->
+  <text x="27" y="309" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">STANDOUT WINE / FAVORITE</text>
+  <line x1="27" y1="317" x2="405" y2="317" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Would Visit Again + Overall Rating -->
+  <text x="27" y="333" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">WOULD VISIT AGAIN?</text>
+  <rect x="150" y="323" width="32" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="166" y="334" text-anchor="middle" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">YES</text>
+  <rect x="188" y="323" width="32" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="204" y="334" text-anchor="middle" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">NO</text>
+  <text x="240" y="333" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">OVERALL RATING</text>
+  <rect x="315" y="323" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="328" y="323" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="341" y="323" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="354" y="323" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="367" y="323" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Bottles Purchased -->
+  <text x="27" y="353" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">BOTTLES PURCHASED</text>
+  <line x1="27" y1="361" x2="405" y2="361" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- NOTES / MEMORIES section header -->
+  <rect x="27" y="371" width="378" height="18" fill="#000000"/>
+  <text x="216" y="384" text-anchor="middle" font-family="Merriweather,sans-serif" font-size="10" fill="#FFFFFF">NOTES / MEMORIES</text>
+
+  <!-- Notes write lines (3) -->
+  <line x1="27" y1="401" x2="405" y2="401" stroke="#000000" stroke-width="0.75"/>
+  <line x1="27" y1="416" x2="405" y2="416" stroke="#000000" stroke-width="0.75"/>
+  <line x1="27" y1="431" x2="405" y2="431" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- VINEYARD WISH LIST section header -->
+  <rect x="27" y="441" width="378" height="18" fill="#000000"/>
+  <text x="216" y="454" text-anchor="middle" font-family="Merriweather,sans-serif" font-size="10" fill="#FFFFFF">VINEYARD WISH LIST</text>
+
+  <!-- Wish list entries (3): name + region -->
+  <!-- Entry 1 -->
+  <text x="27" y="470" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">1. VINEYARD</text>
+  <line x1="84" y1="472" x2="255" y2="472" stroke="#000000" stroke-width="0.75"/>
+  <text x="260" y="470" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">REGION</text>
+  <line x1="295" y1="472" x2="405" y2="472" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Entry 2 -->
+  <text x="27" y="487" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">2. VINEYARD</text>
+  <line x1="84" y1="489" x2="255" y2="489" stroke="#000000" stroke-width="0.75"/>
+  <text x="260" y="487" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">REGION</text>
+  <line x1="295" y1="489" x2="405" y2="489" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Entry 3 -->
+  <text x="27" y="504" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">3. VINEYARD</text>
+  <line x1="84" y1="506" x2="255" y2="506" stroke="#000000" stroke-width="0.75"/>
+  <text x="260" y="504" font-family="Merriweather,sans-serif" font-size="8" fill="#333333">REGION</text>
+  <line x1="295" y1="506" x2="405" y2="506" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Page number placeholder -->
+  <text x="216" y="582" text-anchor="middle" font-family="Merriweather,sans-serif" font-size="9" fill="#333333">#</text>
+
+</svg>

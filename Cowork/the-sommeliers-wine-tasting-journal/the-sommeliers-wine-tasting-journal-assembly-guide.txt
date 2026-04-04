@@ -1,0 +1,115 @@
+=====================================
+INTERIOR ASSEMBLY GUIDE — The Sommelier's Wine Tasting Journal
+Target pages: 136 (even page count — 1 blank page added)
+Trim size: 5 x 8 inches (Pocket Size)
+=====================================
+
+PAGE STRUCTURE — IN THIS EXACT ORDER:
+
+Page 1:     Title page
+Page 2:     Copyright page
+Pages 3-4:  How to use this book (2 pages)
+Pages 5-24: vineyard-producer-info-log-template.svg (Vineyard & Producer Info Logs — 20 pages)
+Pages 25-124: technical-tasting-grid-template.svg (Technical Tasting Grids — 100 pages)
+Pages 125-134: business-contact-directory-template.svg (Business Contact Directory — 10 pages)
+Page 135:   Thank you page
+Page 136:   Blank page (required to reach even page count)
+
+FONT: Merriweather — download from https://fonts.google.com/specimen/Merriweather
+TOTAL PAGES: 136 (even)
+=====================================
+
+-------------------------------------
+PAGE 1 — TITLE PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+The Sommelier's Wine Tasting Journal
+
+A Technical Log for Vineyard Visits, Professional Ratings, and Advanced Palate Development (2026)
+
+Author: Blissity Publications
+-------------------------------------
+
+-------------------------------------
+PAGE 2 — COPYRIGHT PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Copyright © 2026 Blissity Publications
+
+All rights reserved.
+
+No part of this publication may be reproduced, distributed, or transmitted
+in any form or by any means, including photocopying, recording, or other
+electronic or mechanical methods, without the prior written permission of
+the publisher.
+
+Printed in the USA
+
+First Edition
+-------------------------------------
+
+-------------------------------------
+PAGES 3-4 — HOW TO USE THIS BOOK (2 pages)
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+HOW TO USE THIS BOOK
+
+Welcome to The Sommelier's Wine Tasting Journal — a precision field log designed for industry professionals, serious enthusiasts, and anyone committed to developing their palate at the highest level. Whether you are a working sommelier, a WSET candidate, or a passionate wine traveler, this journal is built to keep pace with you wherever the wine takes you.
+
+This pocket-sized journal travels with you — to cellar doors, trade tastings, restaurant visits, and vineyard tours. It is organized into three core sections, each serving a distinct purpose in your professional wine practice.
+
+VINEYARD & PRODUCER INFO LOGS (Pages 5-24)
+Use these pages to capture essential details about every winery or producer you visit. Record the winery name, region, contact details, and your key impressions of the visit. The "Wines Tasted" table lets you list specific bottles with your ratings at a glance, while the notes area gives you space to capture everything else — the vibe of the cellar, standout moments, or follow-up questions. Use the "Would Visit Again?" checkbox to quickly flag producers worth returning to.
+
+TECHNICAL TASTING GRIDS (Pages 25-124)
+This is the heart of the journal. Each tasting grid walks you through a complete structured analysis — appearance, nose, and palate — using the same systematic framework used by professional tasters and certification bodies worldwide. Rate tannin, acidity, body, alcohol, and finish on a five-point scale. Record your flavour notes and aroma profile in the dedicated fields. Finish each entry with your conclusions: quality rating, readiness assessment, and an overall score out of 100. Use one grid per wine tasted.
+
+BUSINESS CONTACT DIRECTORY (Pages 125-134)
+Your professional network in wine is one of your most valuable assets. These directory pages give you a structured place to record contact details for winemakers, importers, distributors, sales reps, and fellow industry professionals you meet along the way. Each page holds three full contact entries with space for name, title, company, phone, email, website, region, and notes.
+
+TIPS FOR GETTING THE MOST FROM THIS JOURNAL
+
+Complete each tasting grid immediately after tasting — memory fades faster than you think. Use the full five-point scales consistently so your ratings remain comparable across different sessions and locations. Cross-reference your Producer Info Logs with your Tasting Grids by noting page numbers in the margins. Revisit your contact directory regularly and follow up with the people who matter most to your career or collection.
+
+This journal is your professional field companion. Fill it honestly, carry it everywhere, and let it become an accurate record of your journey through the world of wine.
+-------------------------------------
+
+-------------------------------------
+LAST PAGE — THANK YOU PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Thank you for choosing The Sommelier's Wine Tasting Journal as your professional companion in the cellar, at the table, and on the road.
+
+Every wine you document in these pages is a step forward in your palate development — a record of where you have been, what you have discovered, and who you have connected with along the way. Keep tasting with intention, keep your grids consistent, and trust the process. The most skilled tasters in the world built their expertise one glass at a time, exactly as you are doing now.
+
+If this journal has supported your work or deepened your passion for wine, we would love to hear about it! Please take a moment to leave an honest review on Amazon — your feedback helps other professionals and enthusiasts find the tools that make a real difference.
+
+Scroll back to the top and click the review button.
+
+With gratitude,
+Blissity Publications
+-------------------------------------
+
+=====================================
+AFFINITY PUBLISHER ASSEMBLY NOTES
+=====================================
+
+MARGINS (at 72 DPI for 5x8 book, 130 pages):
+- Inside (spine): 0.375 in
+- Outside: 0.375 in
+- Top: 0.75 in
+- Bottom: 0.75 in
+
+SVG PLACEMENT:
+- Place each SVG as a linked image on its master page
+- Set each SVG frame to full page bleed (0,0 to 360x576)
+- The SVGs already include internal safe-area margins — do not add additional offsets
+- Repeat each master page the correct number of times using the Pages panel
+
+EXPORT SETTINGS FOR KDP:
+- PDF/X-1a or PDF/X-4 format
+- 300 DPI (even for B&W)
+- No crop marks, no bleed added (KDP uses full-page PDF for interiors)
+- Embed all fonts
+- Color mode: Grayscale (B&W interior)
+=====================================

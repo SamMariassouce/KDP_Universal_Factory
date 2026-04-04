@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="612" height="792" viewBox="0 0 612 792">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- White background -->
+  <rect width="612" height="792" fill="#FFFFFF"/>
+
+  <!-- HEADER BAR -->
+  <rect x="27" y="54" width="558" height="26" fill="#000000"/>
+  <text x="306" y="71" font-family="Source Sans 3,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">WINE TASTING -- SYSTEMATIC APPROACH (SAT)</text>
+
+  <!-- WINE IDENTIFICATION -->
+  <text x="27" y="94" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">WINE NAME</text>
+  <line x1="27" y1="108" x2="585" y2="108" stroke="#000000" stroke-width="0.75"/>
+
+  <text x="27" y="122" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">VINTAGE</text>
+  <line x1="27" y1="136" x2="147" y2="136" stroke="#000000" stroke-width="0.75"/>
+  <text x="157" y="122" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">PRODUCER</text>
+  <line x1="157" y1="136" x2="381" y2="136" stroke="#000000" stroke-width="0.75"/>
+  <text x="391" y="122" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">REGION / APPELLATION</text>
+  <line x1="391" y1="136" x2="585" y2="136" stroke="#000000" stroke-width="0.75"/>
+
+  <text x="27" y="150" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">GRAPE VARIETY</text>
+  <line x1="27" y1="164" x2="237" y2="164" stroke="#000000" stroke-width="0.75"/>
+  <text x="247" y="150" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">DATE</text>
+  <line x1="247" y1="164" x2="367" y2="164" stroke="#000000" stroke-width="0.75"/>
+  <text x="377" y="150" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1.5">OCCASION</text>
+  <line x1="377" y1="164" x2="585" y2="164" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- ===== APPEARANCE ===== -->
+  <rect x="27" y="172" width="558" height="16" fill="#1A1A1A"/>
+  <text x="306" y="184" font-family="Source Sans 3,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">APPEARANCE</text>
+
+  <!-- Clarity -->
+  <text x="27" y="202" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">CLARITY</text>
+  <rect x="107" y="192" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="120" y="202" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">CLEAR</text>
+  <rect x="168" y="192" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="181" y="202" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">HAZY</text>
+
+  <!-- Intensity -->
+  <text x="27" y="218" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">INTENSITY</text>
+  <rect x="107" y="208" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="120" y="218" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">PALE</text>
+  <rect x="162" y="208" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="175" y="218" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM-</text>
+  <rect x="238" y="208" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="251" y="218" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <rect x="304" y="208" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="317" y="218" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM+</text>
+  <rect x="382" y="208" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="395" y="218" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">DEEP</text>
+
+  <!-- Colour (write-in) -->
+  <text x="27" y="234" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">COLOUR</text>
+  <line x1="107" y1="234" x2="585" y2="234" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Other Observations -->
+  <text x="27" y="250" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">OTHER OBS.</text>
+  <line x1="107" y1="250" x2="585" y2="250" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- ===== NOSE ===== -->
+  <rect x="27" y="258" width="558" height="16" fill="#1A1A1A"/>
+  <text x="306" y="270" font-family="Source Sans 3,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">NOSE</text>
+
+  <!-- Condition + Intensity combined -->
+  <text x="27" y="286" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">CONDITION</text>
+  <rect x="107" y="276" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="120" y="286" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">CLEAN</text>
+  <rect x="170" y="276" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="183" y="286" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">UNCLEAN</text>
+  <line x1="248" y1="274" x2="248" y2="292" stroke="#CCCCCC" stroke-width="0.5"/>
+  <text x="258" y="286" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">INTENSITY</text>
+  <rect x="332" y="276" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="345" y="286" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">LIGHT</text>
+  <rect x="393" y="276" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="406" y="286" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <rect x="462" y="276" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="475" y="286" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">PRONOUNCED</text>
+
+  <!-- Development -->
+  <text x="27" y="302" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">DEVELOPMENT</text>
+  <rect x="122" y="292" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="135" y="302" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">YOUTHFUL</text>
+  <rect x="205" y="292" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="218" y="302" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">DEVELOPING</text>
+  <rect x="303" y="292" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="316" y="302" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MATURE</text>
+  <rect x="374" y="292" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="387" y="302" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">COMPLEX / TERTIARY</text>
+
+  <!-- Aroma Characteristics -->
+  <text x="27" y="318" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">AROMA CHARACTERISTICS</text>
+  <line x1="27" y1="332" x2="585" y2="332" stroke="#000000" stroke-width="0.75"/>
+  <line x1="27" y1="348" x2="585" y2="348" stroke="#E0E0E0" stroke-width="0.5"/>
+
+  <!-- ===== PALATE ===== -->
+  <rect x="27" y="356" width="558" height="16" fill="#1A1A1A"/>
+  <text x="306" y="368" font-family="Source Sans 3,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">PALATE</text>
+
+  <!-- Sweetness -->
+  <text x="27" y="384" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">SWEETNESS</text>
+  <rect x="107" y="374" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="120" y="384" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">DRY</text>
+  <rect x="154" y="374" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="167" y="384" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">OFF-DRY</text>
+  <rect x="225" y="374" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="238" y="384" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MED-DRY</text>
+  <rect x="300" y="374" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="313" y="384" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <rect x="365" y="374" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="378" y="384" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MED-SWEET</text>
+  <rect x="453" y="374" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="466" y="384" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">SWEET</text>
+
+  <!-- Acidity -->
+  <text x="27" y="400" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">ACIDITY</text>
+  <rect x="107" y="390" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="120" y="400" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">LOW</text>
+  <rect x="162" y="390" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="175" y="400" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM-</text>
+  <rect x="238" y="390" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="251" y="400" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <rect x="304" y="390" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="317" y="400" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM+</text>
+  <rect x="382" y="390" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="395" y="400" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">HIGH</text>
+
+  <!-- Tannin -->
+  <text x="27" y="416" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">TANNIN</text>
+  <rect x="107" y="406" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="120" y="416" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">LOW</text>
+  <rect x="162" y="406" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="175" y="416" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM-</text>
+  <rect x="238" y="406" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="251" y="416" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <rect x="304" y="406" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="317" y="416" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM+</text>
+  <rect x="382" y="406" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="395" y="416" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">HIGH</text>
+  <text x="442" y="416" font-family="Source Sans 3,sans-serif" font-size="6.5" fill="#888888">(whites: N/A)</text>
+
+  <!-- Body -->
+  <text x="27" y="432" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">BODY</text>
+  <rect x="107" y="422" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="120" y="432" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">LIGHT</text>
+  <rect x="162" y="422" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="175" y="432" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM-</text>
+  <rect x="238" y="422" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="251" y="432" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <rect x="304" y="422" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="317" y="432" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM+</text>
+  <rect x="382" y="422" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="395" y="432" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">FULL</text>
+
+  <!-- Flavour Intensity -->
+  <text x="27" y="448" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">FLAVOUR INTENSITY</text>
+  <rect x="163" y="438" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="176" y="448" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">LIGHT</text>
+  <rect x="215" y="438" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="228" y="448" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM-</text>
+  <rect x="290" y="438" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="303" y="448" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <rect x="355" y="438" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="368" y="448" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM+</text>
+  <rect x="430" y="438" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="443" y="448" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">PRONOUNCED</text>
+
+  <!-- Alcohol + Finish combined -->
+  <text x="27" y="464" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">ALCOHOL</text>
+  <rect x="107" y="454" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="120" y="464" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">LOW</text>
+  <rect x="152" y="454" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="165" y="464" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <rect x="220" y="454" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="233" y="464" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">HIGH</text>
+  <line x1="268" y1="452" x2="268" y2="470" stroke="#CCCCCC" stroke-width="0.5"/>
+  <text x="278" y="464" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">FINISH</text>
+  <rect x="321" y="454" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="334" y="464" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">SHORT</text>
+  <rect x="382" y="454" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="395" y="464" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">MEDIUM</text>
+  <rect x="450" y="454" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="463" y="464" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">LONG</text>
+
+  <!-- Flavour Characteristics -->
+  <text x="27" y="480" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">FLAVOUR CHARACTERISTICS</text>
+  <line x1="27" y1="494" x2="585" y2="494" stroke="#000000" stroke-width="0.75"/>
+  <line x1="27" y1="510" x2="585" y2="510" stroke="#E0E0E0" stroke-width="0.5"/>
+
+  <!-- ===== CONCLUSIONS ===== -->
+  <rect x="27" y="518" width="558" height="16" fill="#1A1A1A"/>
+  <text x="306" y="530" font-family="Source Sans 3,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">CONCLUSIONS</text>
+
+  <!-- Quality -->
+  <text x="27" y="546" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">QUALITY</text>
+  <rect x="107" y="536" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="120" y="546" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">FAULTY</text>
+  <rect x="170" y="536" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="183" y="546" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">POOR</text>
+  <rect x="218" y="536" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="231" y="546" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">ACCEPTABLE</text>
+  <rect x="311" y="536" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="324" y="546" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">GOOD</text>
+  <rect x="361" y="536" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="374" y="546" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">VERY GOOD</text>
+  <rect x="447" y="536" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="460" y="546" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">OUTSTANDING</text>
+
+  <!-- Readiness -->
+  <text x="27" y="562" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">READINESS</text>
+  <rect x="107" y="552" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="120" y="562" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">TOO YOUNG</text>
+  <rect x="205" y="552" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="218" y="562" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">DRINK NOW / CAN AGE</text>
+  <rect x="367" y="552" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="380" y="562" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">DRINK NOW ONLY</text>
+  <rect x="484" y="552" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="497" y="562" font-family="Source Sans 3,sans-serif" font-size="7" fill="#000000">PAST PEAK</text>
+
+  <!-- Drinking Window + Score -->
+  <text x="27" y="578" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">DRINKING WINDOW</text>
+  <line x1="27" y1="592" x2="277" y2="592" stroke="#000000" stroke-width="0.75"/>
+  <text x="287" y="578" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">SCORE</text>
+  <line x1="287" y1="592" x2="427" y2="592" stroke="#000000" stroke-width="0.75"/>
+  <text x="432" y="578" font-family="Source Sans 3,sans-serif" font-size="7" fill="#888888">/ 100</text>
+
+  <!-- Summary Impression -->
+  <text x="27" y="608" font-family="Source Sans 3,sans-serif" font-size="7" font-weight="700" fill="#000000" letter-spacing="1">SUMMARY IMPRESSION</text>
+  <line x1="27" y1="622" x2="585" y2="622" stroke="#000000" stroke-width="0.75"/>
+  <line x1="27" y1="638" x2="585" y2="638" stroke="#E0E0E0" stroke-width="0.5"/>
+  <line x1="27" y1="654" x2="585" y2="654" stroke="#E0E0E0" stroke-width="0.5"/>
+
+  <!-- PAGE NUMBER -->
+  <text x="306" y="680" font-family="Source Sans 3,sans-serif" font-size="9" fill="#000000" text-anchor="middle">- 1 -</text>
+</svg>

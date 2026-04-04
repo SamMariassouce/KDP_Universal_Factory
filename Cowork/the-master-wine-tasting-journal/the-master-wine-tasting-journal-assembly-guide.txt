@@ -1,0 +1,155 @@
+=====================================
+INTERIOR ASSEMBLY GUIDE — The Master Wine Tasting Journal
+Target pages: 160
+Trim size: 8 x 10
+=====================================
+
+PAGE STRUCTURE:
+Page 1:      Title page
+Page 2:      Copyright page
+Pages 3-4:   How to use
+Pages 5-14:  color-clarity-template.svg
+Pages 15-144: flavor-mapping-template.svg
+Pages 145-159: vintage-charts-template.svg
+Page 160:    Thank you
+
+TOTAL: 160 pages (even — no blank page needed)
+FONT: Lato
+COLOR SCHEME: Black and white
+MARGINS:
+  Inside: 0.375 in | Outside: 0.375 in | Top: 0.75 in | Bottom: 0.75 in
+=====================================
+
+-------------------------------------
+PAGE 1 — TITLE PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+The Master Wine Tasting Journal
+
+An Advanced Analytical Log for Serious Enthusiasts —
+Inspired by Global Tasting Standards (2026)
+
+Author: Blissity Publications
+-------------------------------------
+
+-------------------------------------
+PAGE 2 — COPYRIGHT PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Copyright © 2026 Blissity Publications
+
+All rights reserved.
+
+No part of this publication may be reproduced, distributed, or transmitted
+in any form or by any means, including photocopying, recording, or other
+electronic or mechanical methods, without the prior written permission of
+the publisher.
+
+Printed in the USA
+
+First Edition
+-------------------------------------
+
+-------------------------------------
+PAGES 3-4 — HOW TO USE THIS BOOK (2 pages)
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+How to Use This Journal
+
+You are holding a serious analytical tool — designed for tasters who want
+to go beyond simply enjoying wine and start building a deep, documented
+understanding of what is in the glass. Whether you are working toward a
+WSET or Court of Master Sommeliers qualification, following the methodology
+of Wine Folly, or simply committed to developing a more refined palate,
+this journal gives you the framework to do exactly that.
+
+This journal contains three distinct template types, each serving a
+specific function in your tasting workflow. Here is how to use them together:
+
+COLOR AND CLARITY ANALYSIS PAGES
+
+Use these pages first, before you take a single sip. Visual assessment is
+the starting point of every structured tasting, and training your eye to
+read a wine accurately is a skill that develops with consistent practice.
+Fill in the color depth, hue, clarity, brilliance, and viscosity for each
+wine. Use the sketch box to draw or shade in the actual color you observe
+in the glass. Over time, these pages will train you to spot signs of age,
+oxidation, and variety character just from appearance alone.
+
+DETAILED FLAVOR MAPPING PAGES
+
+These are the heart of the journal. Use one page per wine, working
+methodically through each section. Do not skip sections even when a
+particular attribute is subtle — the absence of something (low tannin,
+no oak influence, short finish) is as important as its presence. When
+scoring the palate structure scales, mark your position on the sliding
+scale with an X or a vertical line. For the flavor mapping text area,
+write your impressions in plain language. You do not need to identify
+every note perfectly — the goal is to train your descriptive memory so
+that next time you taste this wine, or a wine like it, you recognize what
+you are sensing and why.
+
+Score each wine on the 1-100 point scale used by major critics. This is
+not about matching others' scores — it is about building a personal
+reference library of how a given wine performs for you on a given day.
+
+VINTAGE SUCCESS CHARTS BY REGION
+
+Use these pages as a running reference document. After tasting wines from
+a particular region and vintage, record your overall assessment of that
+vintage using the 1-5 scale (1 = Poor, 5 = Outstanding). Over time, your
+charts will reflect your own tasting data — not just published vintage
+reports. This is particularly valuable for identifying personal preference
+patterns: you may discover that you consistently enjoy certain regions
+in cooler vintages, or that your palate favors early-release years over
+wines that require long cellaring.
+
+Getting the Most Out of This Journal
+
+Taste systematically. Whenever possible, taste blind or at least taste
+multiple wines side by side rather than in isolation. Comparative tasting
+accelerates learning faster than any other approach.
+
+Review your old entries regularly. Go back to pages you completed 3, 6,
+or 12 months ago and compare them to your current tasting notes for the
+same wine. Your descriptive vocabulary and analytical precision will
+improve noticeably, and you will spot patterns you could not see before.
+
+Do not be afraid of being wrong. If you note a specific aroma and later
+discover the bottle shows something entirely different, that is useful
+data. Log it. Your errors are as instructive as your accurate calls.
+
+This journal belongs to you. No entry is too small, too uncertain, or too
+informal. Every note you make here is a data point in building the most
+important wine reference you will ever own — the one calibrated entirely
+to your own palate.
+-------------------------------------
+
+-------------------------------------
+LAST PAGE (Page 160) — THANK YOU PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Thank you for choosing The Master Wine Tasting Journal.
+
+Every time you open this journal and pick up a pen, you are doing
+something that separates serious tasters from casual drinkers — you are
+paying close attention. That discipline, practiced consistently over the
+weeks and months ahead, is exactly how world-class palates are built.
+No shortcuts, no algorithms, no shortcuts. Just you, a glass, and the
+honest work of observation.
+
+We hope this journal becomes your most trusted companion in the cellar,
+at the tasting room, and at the dinner table. Fill it up. Wear out the
+pages. Start a second volume. That is exactly what it was made for.
+
+If this journal has supported your growth as a taster, we would be
+genuinely honored to hear about it. Please take a moment to leave an
+honest review on Amazon — your feedback helps other serious enthusiasts
+find tools that are built for the way they actually taste and think
+about wine.
+
+Scroll back to the top and click the review button.
+
+With gratitude,
+Blissity Publications
+-------------------------------------

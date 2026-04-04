@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="648" viewBox="0 0 432 648">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- White background -->
+  <rect width="432" height="648" fill="#FFFFFF"/>
+
+  <!-- ─── HEADER BAR ─── -->
+  <rect x="27" y="54" width="378" height="26" fill="#000000"/>
+  <text x="216" y="71" font-family="Raleway,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2.5">WINE &amp; FOOD PAIRING IDEAS</text>
+
+  <!-- ─── COLUMN HEADERS ─── -->
+  <rect x="27" y="80" width="378" height="22" fill="#333333"/>
+  <!-- Wine column header -->
+  <text x="118" y="95" font-family="Raleway,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.5">WINE</text>
+  <!-- Divider between columns -->
+  <line x1="209" y1="80" x2="209" y2="102" stroke="#FFFFFF" stroke-width="0.75"/>
+  <!-- Food column header -->
+  <text x="307" y="95" font-family="Raleway,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.5">FOOD PAIRINGS</text>
+
+  <!-- ─── TABLE OUTER BORDER ─── -->
+  <rect x="27" y="80" width="378" height="414" fill="none" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- ─── VERTICAL COLUMN DIVIDER ─── -->
+  <line x1="209" y1="102" x2="209" y2="494" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- ─── ROW LINES (12 rows, each 28px tall) ─── -->
+  <line x1="27" y1="130" x2="405" y2="130" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="158" x2="405" y2="158" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="186" x2="405" y2="186" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="214" x2="405" y2="214" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="242" x2="405" y2="242" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="270" x2="405" y2="270" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="298" x2="405" y2="298" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="326" x2="405" y2="326" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="354" x2="405" y2="354" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="382" x2="405" y2="382" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="410" x2="405" y2="410" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="438" x2="405" y2="438" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="466" x2="405" y2="466" stroke="#000000" stroke-width="0.5"/>
+
+  <!-- Row number labels (optional subtle reference) -->
+  <text x="30" y="122" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">1</text>
+  <text x="30" y="150" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">2</text>
+  <text x="30" y="178" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">3</text>
+  <text x="30" y="206" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">4</text>
+  <text x="30" y="234" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">5</text>
+  <text x="30" y="262" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">6</text>
+  <text x="30" y="290" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">7</text>
+  <text x="30" y="318" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">8</text>
+  <text x="30" y="346" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">9</text>
+  <text x="30" y="374" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">10</text>
+  <text x="30" y="402" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">11</text>
+  <text x="30" y="430" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">12</text>
+  <text x="30" y="458" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">13</text>
+  <text x="30" y="486" font-family="Raleway,sans-serif" font-size="6" fill="#CCCCCC">14</text>
+
+  <!-- ─── NOTES SECTION ─── -->
+  <text x="27" y="509" font-family="Raleway,sans-serif" font-size="7" font-weight="600" fill="#000000" letter-spacing="1.5">NOTES</text>
+  <rect x="27" y="513" width="378" height="66" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <line x1="36" y1="530" x2="396" y2="530" stroke="#E0E0E0" stroke-width="0.5"/>
+  <line x1="36" y1="547" x2="396" y2="547" stroke="#E0E0E0" stroke-width="0.5"/>
+  <line x1="36" y1="564" x2="396" y2="564" stroke="#E0E0E0" stroke-width="0.5"/>
+
+  <!-- ─── PAGE NUMBER ─── -->
+  <text x="216" y="590" font-family="Raleway,sans-serif" font-size="9" fill="#000000" text-anchor="middle">- 1 -</text>
+</svg>

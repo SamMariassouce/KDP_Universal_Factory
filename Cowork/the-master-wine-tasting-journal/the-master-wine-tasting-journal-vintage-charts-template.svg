@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="720" viewBox="0 0 576 720">
+
+  <!-- Page background -->
+  <rect width="576" height="720" fill="#FFFFFF"/>
+
+  <!-- Outer border (safe area) -->
+  <rect x="36" y="54" width="513" height="612" fill="none" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- ============================================================ -->
+  <!-- TITLE BAR                                                    -->
+  <!-- ============================================================ -->
+  <rect x="36" y="54" width="513" height="24" fill="#000000"/>
+  <text x="292" y="71" font-family="Lato,sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">VINTAGE SUCCESS CHARTS BY REGION</text>
+
+  <!-- ============================================================ -->
+  <!-- RATING KEY                                                   -->
+  <!-- ============================================================ -->
+  <rect x="36" y="78" width="513" height="13" fill="#444444"/>
+  <text x="42" y="88" font-family="Lato,sans-serif" font-size="7.5" font-weight="700" fill="#FFFFFF" letter-spacing="1">RATING KEY</text>
+
+  <!-- Rating key boxes and labels -->
+  <rect x="102" y="80" width="10" height="10" fill="#FFFFFF" stroke="#333333" stroke-width="0.5"/>
+  <text x="114" y="88" font-family="Lato,sans-serif" font-size="7" fill="#FFFFFF">1 = Poor</text>
+
+  <rect x="168" y="80" width="10" height="10" fill="#FFFFFF" stroke="#333333" stroke-width="0.5"/>
+  <text x="180" y="88" font-family="Lato,sans-serif" font-size="7" fill="#FFFFFF">2 = Below Avg</text>
+
+  <rect x="262" y="80" width="10" height="10" fill="#FFFFFF" stroke="#333333" stroke-width="0.5"/>
+  <text x="274" y="88" font-family="Lato,sans-serif" font-size="7" fill="#FFFFFF">3 = Average</text>
+
+  <rect x="352" y="80" width="10" height="10" fill="#FFFFFF" stroke="#333333" stroke-width="0.5"/>
+  <text x="364" y="88" font-family="Lato,sans-serif" font-size="7" fill="#FFFFFF">4 = Good</text>
+
+  <rect x="416" y="80" width="10" height="10" fill="#FFFFFF" stroke="#333333" stroke-width="0.5"/>
+  <text x="428" y="88" font-family="Lato,sans-serif" font-size="7" fill="#FFFFFF">5 = Outstanding</text>
+
+  <!-- ============================================================ -->
+  <!-- VINTAGE GRID                                                 -->
+  <!-- Grid: 16 regions x 10 years (2015-2024)                     -->
+  <!-- Region col: x=36-159 (width 123)                            -->
+  <!-- Year cols: x=159-549 (width 390 / 10 = 39px each)           -->
+  <!-- Row height: 27px, starting y=104                             -->
+  <!-- ============================================================ -->
+
+  <!-- Grid header row -->
+  <rect x="36" y="104" width="123" height="20" fill="#222222"/>
+  <text x="97" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">REGION</text>
+
+  <!-- Year headers -->
+  <rect x="159" y="104" width="390" height="20" fill="#222222"/>
+  <text x="178" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">2015</text>
+  <text x="217" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">2016</text>
+  <text x="256" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">2017</text>
+  <text x="295" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">2018</text>
+  <text x="334" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">2019</text>
+  <text x="373" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">2020</text>
+  <text x="412" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">2021</text>
+  <text x="451" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">2022</text>
+  <text x="490" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">2023</text>
+  <text x="529" y="117" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">2024</text>
+
+  <!-- ============================================================ -->
+  <!-- FRANCE section label                                         -->
+  <!-- ============================================================ -->
+  <rect x="36" y="124" width="513" height="11" fill="#666666"/>
+  <text x="42" y="132" font-family="Lato,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" letter-spacing="1">FRANCE</text>
+
+  <!-- ROW 1: Bordeaux (y=135) -->
+  <rect x="36" y="135" width="123" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="150" font-family="Lato,sans-serif" font-size="8" fill="#333333">Bordeaux</text>
+  <rect x="159" y="135" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="135" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="135" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="135" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="135" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="135" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="135" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="135" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="135" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="135" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ROW 2: Burgundy (y=160) -->
+  <rect x="36" y="160" width="123" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="175" font-family="Lato,sans-serif" font-size="8" fill="#333333">Burgundy</text>
+  <rect x="159" y="160" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="160" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="160" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="160" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="160" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="160" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="160" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="160" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="160" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="160" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ROW 3: Champagne (y=185) -->
+  <rect x="36" y="185" width="123" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="200" font-family="Lato,sans-serif" font-size="8" fill="#333333">Champagne</text>
+  <rect x="159" y="185" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="185" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="185" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="185" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="185" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="185" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="185" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="185" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="185" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="185" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ROW 4: Rhone Valley (y=210) -->
+  <rect x="36" y="210" width="123" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="225" font-family="Lato,sans-serif" font-size="8" fill="#333333">Rhone Valley</text>
+  <rect x="159" y="210" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="210" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="210" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="210" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="210" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="210" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="210" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="210" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="210" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="210" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ITALY section label -->
+  <rect x="36" y="235" width="513" height="11" fill="#666666"/>
+  <text x="42" y="243" font-family="Lato,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" letter-spacing="1">ITALY</text>
+
+  <!-- ROW 5: Tuscany (y=246) -->
+  <rect x="36" y="246" width="123" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="261" font-family="Lato,sans-serif" font-size="8" fill="#333333">Tuscany</text>
+  <rect x="159" y="246" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="246" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="246" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="246" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="246" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="246" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="246" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="246" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="246" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="246" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ROW 6: Piedmont (y=271) -->
+  <rect x="36" y="271" width="123" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="286" font-family="Lato,sans-serif" font-size="8" fill="#333333">Piedmont</text>
+  <rect x="159" y="271" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="271" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="271" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="271" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="271" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="271" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="271" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="271" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="271" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="271" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- SPAIN section label -->
+  <rect x="36" y="296" width="513" height="11" fill="#666666"/>
+  <text x="42" y="304" font-family="Lato,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" letter-spacing="1">SPAIN</text>
+
+  <!-- ROW 7: Rioja (y=307) -->
+  <rect x="36" y="307" width="123" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="322" font-family="Lato,sans-serif" font-size="8" fill="#333333">Rioja</text>
+  <rect x="159" y="307" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="307" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="307" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="307" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="307" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="307" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="307" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="307" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="307" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="307" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ROW 8: Ribera del Duero (y=332) -->
+  <rect x="36" y="332" width="123" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="347" font-family="Lato,sans-serif" font-size="7.5" fill="#333333">Ribera del Duero</text>
+  <rect x="159" y="332" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="332" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="332" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="332" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="332" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="332" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="332" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="332" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="332" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="332" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- USA section label -->
+  <rect x="36" y="357" width="513" height="11" fill="#666666"/>
+  <text x="42" y="365" font-family="Lato,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" letter-spacing="1">USA</text>
+
+  <!-- ROW 9: Napa Valley (y=368) -->
+  <rect x="36" y="368" width="123" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="383" font-family="Lato,sans-serif" font-size="8" fill="#333333">Napa Valley</text>
+  <rect x="159" y="368" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="368" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="368" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="368" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="368" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="368" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="368" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="368" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="368" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="368" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ROW 10: Sonoma (y=393) -->
+  <rect x="36" y="393" width="123" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="408" font-family="Lato,sans-serif" font-size="8" fill="#333333">Sonoma</text>
+  <rect x="159" y="393" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="393" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="393" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="393" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="393" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="393" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="393" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="393" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="393" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="393" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- AUSTRALIA section label -->
+  <rect x="36" y="418" width="513" height="11" fill="#666666"/>
+  <text x="42" y="426" font-family="Lato,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" letter-spacing="1">AUSTRALIA</text>
+
+  <!-- ROW 11: Barossa Valley (y=429) -->
+  <rect x="36" y="429" width="123" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="444" font-family="Lato,sans-serif" font-size="8" fill="#333333">Barossa Valley</text>
+  <rect x="159" y="429" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="429" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="429" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="429" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="429" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="429" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="429" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="429" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="429" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="429" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ROW 12: Margaret River (y=454) -->
+  <rect x="36" y="454" width="123" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="469" font-family="Lato,sans-serif" font-size="8" fill="#333333">Margaret River</text>
+  <rect x="159" y="454" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="454" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="454" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="454" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="454" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="454" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="454" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="454" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="454" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="454" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- GERMANY section label -->
+  <rect x="36" y="479" width="513" height="11" fill="#666666"/>
+  <text x="42" y="487" font-family="Lato,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" letter-spacing="1">GERMANY</text>
+
+  <!-- ROW 13: Mosel (y=490) -->
+  <rect x="36" y="490" width="123" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="505" font-family="Lato,sans-serif" font-size="8" fill="#333333">Mosel</text>
+  <rect x="159" y="490" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="490" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="490" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="490" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="490" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="490" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="490" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="490" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="490" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="490" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ROW 14: Rheingau (y=515) -->
+  <rect x="36" y="515" width="123" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <text x="42" y="530" font-family="Lato,sans-serif" font-size="8" fill="#333333">Rheingau</text>
+  <rect x="159" y="515" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="515" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="515" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="515" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="515" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="515" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="515" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="515" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="515" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="515" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- CUSTOM section label -->
+  <rect x="36" y="540" width="513" height="11" fill="#666666"/>
+  <text x="42" y="548" font-family="Lato,sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" letter-spacing="1">CUSTOM REGIONS (Write your own)</text>
+
+  <!-- ROW 15: Custom A (y=551) -->
+  <rect x="36" y="551" width="123" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="42" y1="563" x2="155" y2="563" stroke="#CCCCCC" stroke-width="0.4"/>
+  <rect x="159" y="551" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="551" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="551" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="551" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="551" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="551" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="551" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="551" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="551" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="551" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ROW 16: Custom B (y=576) -->
+  <rect x="36" y="576" width="123" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="42" y1="588" x2="155" y2="588" stroke="#CCCCCC" stroke-width="0.4"/>
+  <rect x="159" y="576" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="198" y="576" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="237" y="576" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="276" y="576" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="315" y="576" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="354" y="576" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="393" y="576" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="432" y="576" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="471" y="576" width="39" height="25" fill="#F9F9F9" stroke="#DDDDDD" stroke-width="0.4"/>
+  <rect x="510" y="576" width="39" height="25" fill="#FFFFFF" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- ============================================================ -->
+  <!-- NOTES                                                        -->
+  <!-- ============================================================ -->
+  <rect x="36" y="608" width="513" height="13" fill="#333333"/>
+  <text x="42" y="618" font-family="Lato,sans-serif" font-size="8" font-weight="700" fill="#FFFFFF" letter-spacing="1">VINTAGE NOTES</text>
+
+  <rect x="36" y="621" width="513" height="39" fill="#FFFFFF" stroke="#333333" stroke-width="0.5"/>
+  <line x1="36" y1="640" x2="549" y2="640" stroke="#DDDDDD" stroke-width="0.4"/>
+  <line x1="36" y1="658" x2="549" y2="658" stroke="#DDDDDD" stroke-width="0.4"/>
+
+  <!-- Page number -->
+  <text x="292" y="660" font-family="Lato,sans-serif" font-size="8" fill="#999999" text-anchor="middle">—  ___  —</text>
+
+</svg>

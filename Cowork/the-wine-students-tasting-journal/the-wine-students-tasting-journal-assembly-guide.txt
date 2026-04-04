@@ -1,0 +1,106 @@
+=====================================
+INTERIOR ASSEMBLY GUIDE — The Wine Student's Tasting Journal
+Target pages: 140
+Trim size: 8.5 x 11
+=====================================
+
+PAGE STRUCTURE — IN THIS EXACT ORDER:
+
+Page 1:    Title page
+Page 2:    Copyright page
+Pages 3-4: How to Use This Book (2 pages)
+Pages 5-124: wset-systematic-approach-template.svg (120 tasting entries)
+             Place one template per page, pages 5 through 124
+Pages 125-144: blind-tasting-scoresheet-template.svg (20 practice scoresheets)
+               Place one scoresheet per page, pages 125 through 144
+Last page: Thank you page (page 140 — already even, no blank needed)
+
+NOTE: 140 pages is already an even number. No blank page needed.
+
+FONT: Open Sans — download from https://fonts.google.com/specimen/Open+Sans
+COLOR SCHEME: Black and white
+MARGINS (8.5x11, 140 pages):
+  Inside: 0.375 in | Outside: 0.375 in | Top: 0.75 in | Bottom: 0.75 in
+=====================================
+
+-------------------------------------
+PAGE 1 — TITLE PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+The Wine Student's Tasting Journal
+
+Structured Tasting Sheets Based on the SAT (Systematic Approach to Tasting) for Exam Prep
+
+2026
+
+Author: Blissity Publications
+-------------------------------------
+
+-------------------------------------
+PAGE 2 — COPYRIGHT PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Copyright © 2026 Blissity Publications
+
+All rights reserved.
+
+No part of this publication may be reproduced, distributed, or transmitted
+in any form or by any means, including photocopying, recording, or other
+electronic or mechanical methods, without the prior written permission of
+the publisher.
+
+Printed in the USA
+
+First Edition
+-------------------------------------
+
+-------------------------------------
+PAGES 3-4 — HOW TO USE THIS BOOK (2 pages)
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+HOW TO USE THIS BOOK
+
+This journal was designed specifically for students studying toward WSET (Wine & Spirit Education Trust) certifications at Level 2, Level 3, and Diploma, as well as candidates preparing for the Court of Master Sommeliers and other structured wine examinations. Every page in this book follows the Systematic Approach to Tasting (SAT) — the same framework your examiners use to evaluate your tasting notes.
+
+WHO THIS BOOK IS FOR
+
+If you are working toward a wine qualification and want a dedicated, exam-ready place to practice your tasting notes, this book is built for you. Whether you are just starting to apply the SAT at Level 2, refining your descriptors for Level 3, or drilling blind tasting for Diploma and beyond, the two template types in this journal cover everything you need.
+
+YOUR TWO TEMPLATE TYPES
+
+Pages 5 through 124 contain the WSET Systematic Approach to Tasting (SAT) template. Use this template every time you taste a wine you already know — when you open a bottle at dinner, attend a tasting, visit a winery, or work through study flights with classmates. The SAT template walks you through Appearance, Nose, Palate, and Conclusions in the exact sequence and terminology required by WSET. The Examiner's Summary Statement box at the bottom is where you practice writing full-sentence tasting notes as your examiner expects them. Over time, filling this section without referring to the checkboxes above it is the goal.
+
+Pages 125 through 144 contain the Blind Tasting Practice Scoresheet. This five-phase format is designed to simulate real exam conditions. In Phase 1, you complete your sensory assessment. In Phase 2, you commit your deductions to paper before the wine is revealed. In Phase 3, you record what the wine actually was. In Phase 4, you score yourself honestly across seven categories. In Phase 5, you write your reflection — what you identified correctly, what you need to work on, and the single most important lesson from that wine. This reflection step is where the real learning happens.
+
+HOW TO USE THE SAT TEMPLATE
+
+Work through each section from top to bottom. Use the checkboxes to anchor your initial observations, then expand on them in the notes fields. In the Examiner's Summary Statement box, write in complete sentences using formal WSET language — for example: "This wine is clear and deep ruby in colour with a garnet rim. On the nose it is clean with pronounced intensity..." Train yourself to include every SAT category in your written note, even if you keep each description brief.
+
+HOW TO USE THE BLIND TASTING SCORESHEET
+
+Cover the bottle completely before you begin. Work through Phase 1 and Phase 2 without any hints. Once you have committed your guess in writing, reveal the wine and complete Phases 3, 4, and 5. Be honest with your scoring — the purpose is to identify your pattern of errors, not to flatter yourself. If you consistently misidentify oak treatment or confuse cool-climate and warm-climate expressions, your Phase 5 notes will reveal that pattern so you can target it in future study sessions.
+
+TIPS FOR GETTING THE MOST FROM THIS JOURNAL
+
+Taste with a consistent setup: same glass shape, same temperature range, and good lighting for assessing colour accurately. Taste the same wine on two or three occasions when possible — revisiting a wine at different points in its development is one of the fastest ways to build palate memory. Before your exam, review your completed scoresheets and look for recurring mistakes. The most common areas where students lose marks are finish length, tannin texture, and quality conclusions — so pay particular attention to those sections as you fill in each page.
+
+Use this journal consistently, taste widely across regions and varieties, and your ability to identify wines systematically will sharpen with every page you complete.
+-------------------------------------
+
+-------------------------------------
+LAST PAGE — THANK YOU PAGE (Page 140)
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Thank you for choosing The Wine Student's Tasting Journal as your study companion on this journey toward certification.
+
+Every great palate is built one tasting at a time. The students who earn their qualifications are not the ones who taste the most expensive wines — they are the ones who pay close attention, take honest notes, and learn from every glass. This journal was designed to help you do exactly that, one page at a time.
+
+Keep tasting consistently. Keep your notes detailed. And trust that each time you sit down with a glass and work through the SAT, you are getting closer to the confidence and precision your examiner is looking for.
+
+If this book has made a difference in your studies, we would love to hear about it! Please take a moment to leave an honest review on Amazon — your feedback helps other students preparing for their own certifications find the tools they need to succeed.
+
+Scroll back to the top and click the review button.
+
+With gratitude,
+Blissity Publications
+-------------------------------------

@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="648" viewBox="0 0 432 648">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;display=swap');
+      text { font-family: 'Playfair Display', serif; }
+    </style>
+  </defs>
+
+  <!-- Page background -->
+  <rect width="432" height="648" fill="#FFFFFF"/>
+
+  <!-- Decorative top border line -->
+  <line x1="27" y1="57" x2="405" y2="57" stroke="#000000" stroke-width="2"/>
+  <line x1="27" y1="61" x2="405" y2="61" stroke="#000000" stroke-width="0.5"/>
+
+  <!-- Header text -->
+  <text x="216" y="77" font-family="'Playfair Display',serif" font-size="13" font-weight="700" fill="#000000" text-anchor="middle">A MILESTONE TASTING</text>
+  <line x1="27" y1="82" x2="405" y2="82" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="86" x2="405" y2="86" stroke="#000000" stroke-width="2"/>
+
+  <!-- Occasion checkboxes -->
+  <rect x="27" y="91" width="378" height="14" fill="#F8F8F8" stroke="#000000" stroke-width="0.5"/>
+  <text x="33" y="101" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Occasion:</text>
+  <text x="74" y="101" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Birthday</text>
+  <rect x="101" y="93" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="113" y="101" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Anniversary</text>
+  <rect x="151" y="93" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="163" y="101" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Wedding</text>
+  <rect x="193" y="93" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="205" y="101" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Holiday</text>
+  <rect x="231" y="93" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="243" y="101" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Other:</text>
+  <rect x="265" y="93" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="276" y="93" width="129" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Date + Location -->
+  <rect x="27" y="105" width="378" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="33" y="115" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Date:</text>
+  <rect x="55" y="106" width="90" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="151" y="115" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Location:</text>
+  <rect x="183" y="106" width="222" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Celebrated with -->
+  <rect x="27" y="119" width="378" height="14" fill="#F8F8F8" stroke="#000000" stroke-width="0.5"/>
+  <text x="33" y="129" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Celebrated with:</text>
+  <rect x="105" y="120" width="300" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- THE WINE section header -->
+  <rect x="27" y="133" width="378" height="14" fill="#000000"/>
+  <text x="216" y="143" font-family="'Playfair Display',serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">THE WINE</text>
+
+  <!-- Wine name -->
+  <rect x="27" y="147" width="378" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="33" y="157" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Wine / Producer:</text>
+  <rect x="110" y="148" width="295" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Vintage + Region -->
+  <rect x="27" y="161" width="378" height="14" fill="#F8F8F8" stroke="#000000" stroke-width="0.5"/>
+  <text x="33" y="171" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Vintage:</text>
+  <rect x="68" y="162" width="55" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="129" y="171" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Region:</text>
+  <rect x="158" y="162" width="110" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="274" y="171" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Grape:</text>
+  <rect x="298" y="162" width="107" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Quick tasting notes -->
+  <rect x="27" y="175" width="378" height="14" fill="#000000"/>
+  <text x="216" y="185" font-family="'Playfair Display',serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">TASTING NOTES</text>
+
+  <!-- Appearance compact -->
+  <rect x="27" y="189" width="378" height="13" fill="#F8F8F8" stroke="#000000" stroke-width="0.5"/>
+  <text x="33" y="199" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Appearance:</text>
+  <text x="84" y="199" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Color:</text>
+  <rect x="101" y="190" width="70" height="11" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="178" y="199" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Intensity:</text>
+  <text x="212" y="199" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Pale</text>
+  <rect x="225" y="190" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="237" y="199" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="268" y="190" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="280" y="199" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Deep</text>
+  <rect x="296" y="190" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Nose compact -->
+  <rect x="27" y="202" width="378" height="13" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="33" y="212" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Nose:</text>
+  <text x="56" y="212" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Aromas:</text>
+  <rect x="84" y="203" width="160" height="11" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="250" y="212" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Intensity:</text>
+  <text x="284" y="212" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Light</text>
+  <rect x="298" y="203" width="7" height="7" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="308" y="212" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Med</text>
+  <rect x="323" y="203" width="7" height="7" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="333" y="212" font-family="'Playfair Display',serif" font-size="7" fill="#000000">High</text>
+  <rect x="348" y="203" width="7" height="7" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Palate compact -->
+  <rect x="27" y="215" width="378" height="13" fill="#F8F8F8" stroke="#000000" stroke-width="0.5"/>
+  <text x="33" y="225" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Palate:</text>
+  <text x="60" y="225" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Body:</text>
+  <text x="79" y="225" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Light</text>
+  <rect x="93" y="216" width="7" height="7" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="103" y="225" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Med</text>
+  <rect x="118" y="216" width="7" height="7" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="128" y="225" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Full</text>
+  <rect x="140" y="216" width="7" height="7" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="153" y="225" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Finish:</text>
+  <text x="175" y="225" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Short</text>
+  <rect x="192" y="216" width="7" height="7" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="202" y="225" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Med</text>
+  <rect x="217" y="216" width="7" height="7" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="227" y="225" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Long</text>
+  <rect x="242" y="216" width="7" height="7" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="255" y="225" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Flavors:</text>
+  <rect x="280" y="216" width="125" height="11" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- WHY THIS WINE WAS SPECIAL -->
+  <rect x="27" y="228" width="378" height="14" fill="#000000"/>
+  <text x="216" y="238" font-family="'Playfair Display',serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">WHY THIS WINE WAS SPECIAL</text>
+
+  <rect x="27" y="242" width="378" height="100" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <line x1="33" y1="256" x2="399" y2="256" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="270" x2="399" y2="270" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="284" x2="399" y2="284" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="298" x2="399" y2="298" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="312" x2="399" y2="312" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="326" x2="399" y2="326" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="340" x2="399" y2="340" stroke="#CCCCCC" stroke-width="0.5"/>
+
+  <!-- A MEMORY TO CHERISH -->
+  <rect x="27" y="342" width="378" height="14" fill="#000000"/>
+  <text x="216" y="352" font-family="'Playfair Display',serif" font-size="8" font-weight="700" fill="#FFFFFF" text-anchor="middle">A MEMORY TO CHERISH</text>
+
+  <rect x="27" y="356" width="378" height="100" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <line x1="33" y1="370" x2="399" y2="370" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="384" x2="399" y2="384" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="398" x2="399" y2="398" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="412" x2="399" y2="412" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="426" x2="399" y2="426" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="440" x2="399" y2="440" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="454" x2="399" y2="454" stroke="#CCCCCC" stroke-width="0.5"/>
+
+  <!-- Rating + Bottle score -->
+  <rect x="27" y="456" width="378" height="18" fill="#F8F8F8" stroke="#000000" stroke-width="0.75"/>
+  <text x="33" y="468" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Rating:</text>
+  <rect x="63" y="459" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="79" y="459" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="95" y="459" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="111" y="459" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="127" y="459" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="148" y="468" font-family="'Playfair Display',serif" font-size="7" fill="#333333">(fill 1-5)</text>
+  <text x="220" y="468" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Price Paid:</text>
+  <text x="260" y="468" font-family="'Playfair Display',serif" font-size="7" fill="#000000">$</text>
+  <rect x="267" y="459" width="55" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="328" y="468" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Worth it:</text>
+  <text x="362" y="468" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Yes</text>
+  <rect x="374" y="459" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="385" y="468" font-family="'Playfair Display',serif" font-size="7" fill="#000000">No</text>
+  <rect x="394" y="459" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Decorative bottom border -->
+  <line x1="27" y1="479" x2="405" y2="479" stroke="#000000" stroke-width="0.5"/>
+  <line x1="27" y1="483" x2="405" y2="483" stroke="#000000" stroke-width="2"/>
+
+  <!-- Page number -->
+  <text x="216" y="630" font-family="'Playfair Display',serif" font-size="8" fill="#000000" text-anchor="middle">___</text>
+</svg>

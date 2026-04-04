@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="648" viewBox="0 0 432 648">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;display=swap');
+      text { font-family: 'Playfair Display', serif; }
+    </style>
+  </defs>
+
+  <!-- Page background -->
+  <rect width="432" height="648" fill="#FFFFFF"/>
+
+  <!-- Header bar -->
+  <rect x="27" y="54" width="378" height="22" fill="#000000"/>
+  <text x="216" y="69" font-family="'Playfair Display',serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle">WINE TASTING LOG</text>
+
+  <!-- Wine info label bar -->
+  <rect x="27" y="76" width="378" height="13" fill="#333333"/>
+  <text x="33" y="86" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#FFFFFF">WINE DETAILS</text>
+
+  <!-- Row 1: Wine / Producer -->
+  <rect x="27" y="89" width="378" height="14" fill="#F8F8F8"/>
+  <text x="33" y="99" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Wine / Producer:</text>
+  <rect x="113" y="90" width="292" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 2: Vintage | Region | Grape -->
+  <rect x="27" y="103" width="378" height="14" fill="#FFFFFF"/>
+  <text x="33" y="113" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Vintage:</text>
+  <rect x="70" y="104" width="50" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="126" y="113" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Region:</text>
+  <rect x="160" y="104" width="100" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="266" y="113" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Grape:</text>
+  <rect x="294" y="104" width="111" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 3: Price | Date | Occasion -->
+  <rect x="27" y="117" width="378" height="14" fill="#F8F8F8"/>
+  <text x="33" y="127" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Price:</text>
+  <text x="57" y="127" font-family="'Playfair Display',serif" font-size="7" fill="#000000">$</text>
+  <rect x="63" y="118" width="45" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="114" y="127" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Date:</text>
+  <rect x="135" y="118" width="75" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="216" y="127" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Occasion:</text>
+  <rect x="254" y="118" width="151" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- APPEARANCE -->
+  <rect x="27" y="131" width="378" height="14" fill="#333333"/>
+  <text x="33" y="141" font-family="'Playfair Display',serif" font-size="8" font-weight="700" fill="#FFFFFF">APPEARANCE</text>
+
+  <!-- Color + Clarity -->
+  <rect x="27" y="145" width="378" height="13" fill="#F8F8F8"/>
+  <text x="33" y="155" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Color:</text>
+  <rect x="58" y="146" width="90" height="11" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="155" y="155" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Clarity:</text>
+  <text x="183" y="155" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Clear</text>
+  <rect x="199" y="147" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="211" y="155" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Hazy</text>
+  <rect x="226" y="147" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Intensity -->
+  <rect x="27" y="158" width="378" height="13" fill="#FFFFFF"/>
+  <text x="33" y="168" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Intensity:</text>
+  <text x="72" y="168" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Pale</text>
+  <rect x="87" y="159" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="99" y="168" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="130" y="159" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="142" y="168" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Deep</text>
+  <rect x="159" y="159" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="172" y="168" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Other notes:</text>
+  <rect x="221" y="159" width="184" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- NOSE -->
+  <rect x="27" y="171" width="378" height="14" fill="#333333"/>
+  <text x="33" y="181" font-family="'Playfair Display',serif" font-size="8" font-weight="700" fill="#FFFFFF">NOSE</text>
+
+  <!-- Condition + Intensity -->
+  <rect x="27" y="185" width="378" height="13" fill="#F8F8F8"/>
+  <text x="33" y="195" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Condition:</text>
+  <text x="74" y="195" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Clean</text>
+  <rect x="90" y="186" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="102" y="195" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Unclean</text>
+  <rect x="130" y="186" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="145" y="195" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Intensity:</text>
+  <text x="182" y="195" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Light</text>
+  <rect x="198" y="186" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="210" y="195" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="241" y="186" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="253" y="195" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Pronounced</text>
+  <rect x="297" y="186" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Aromas -->
+  <rect x="27" y="198" width="378" height="13" fill="#FFFFFF"/>
+  <text x="33" y="208" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Aromas:</text>
+  <rect x="67" y="199" width="338" height="11" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Development -->
+  <rect x="27" y="211" width="378" height="13" fill="#F8F8F8"/>
+  <text x="33" y="221" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Development:</text>
+  <text x="87" y="221" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Youthful</text>
+  <rect x="114" y="212" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="126" y="221" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Developing</text>
+  <rect x="163" y="212" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="175" y="221" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Fully Developed</text>
+  <rect x="240" y="212" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="252" y="221" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Past Best</text>
+  <rect x="289" y="212" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- PALATE -->
+  <rect x="27" y="224" width="378" height="14" fill="#333333"/>
+  <text x="33" y="234" font-family="'Playfair Display',serif" font-size="8" font-weight="700" fill="#FFFFFF">PALATE</text>
+
+  <!-- Sweetness + Acidity -->
+  <rect x="27" y="238" width="378" height="13" fill="#F8F8F8"/>
+  <text x="33" y="248" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Sweetness:</text>
+  <text x="80" y="248" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Dry</text>
+  <rect x="92" y="239" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="104" y="248" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Off-Dry</text>
+  <rect x="130" y="239" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="142" y="248" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Sweet</text>
+  <rect x="163" y="239" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="177" y="248" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Acidity:</text>
+  <text x="208" y="248" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Low</text>
+  <rect x="221" y="239" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="233" y="248" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="264" y="239" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="276" y="248" font-family="'Playfair Display',serif" font-size="7" fill="#000000">High</text>
+  <rect x="293" y="239" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Tannin + Body + Alcohol -->
+  <rect x="27" y="251" width="378" height="13" fill="#FFFFFF"/>
+  <text x="33" y="261" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Tannin:</text>
+  <text x="65" y="261" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Low</text>
+  <rect x="78" y="252" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="90" y="261" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Med</text>
+  <rect x="106" y="252" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="118" y="261" font-family="'Playfair Display',serif" font-size="7" fill="#000000">High</text>
+  <rect x="133" y="252" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="147" y="261" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Body:</text>
+  <text x="168" y="261" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Light</text>
+  <rect x="183" y="252" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="195" y="261" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Med</text>
+  <rect x="211" y="252" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="223" y="261" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Full</text>
+  <rect x="234" y="252" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="248" y="261" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Alcohol:</text>
+  <text x="281" y="261" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Low</text>
+  <rect x="294" y="252" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="306" y="261" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Med</text>
+  <rect x="322" y="252" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="334" y="261" font-family="'Playfair Display',serif" font-size="7" fill="#000000">High</text>
+  <rect x="349" y="252" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Flavor notes -->
+  <rect x="27" y="264" width="378" height="13" fill="#F8F8F8"/>
+  <text x="33" y="274" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Flavor Notes:</text>
+  <rect x="87" y="265" width="318" height="11" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Finish -->
+  <rect x="27" y="277" width="378" height="13" fill="#FFFFFF"/>
+  <text x="33" y="287" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Finish:</text>
+  <text x="60" y="287" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Short</text>
+  <rect x="77" y="278" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="89" y="287" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Medium</text>
+  <rect x="120" y="278" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="132" y="287" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Long</text>
+  <rect x="148" y="278" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="162" y="287" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Food Pairing:</text>
+  <rect x="209" y="278" width="196" height="11" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- TASTING NOTES header -->
+  <rect x="27" y="290" width="378" height="14" fill="#333333"/>
+  <text x="33" y="300" font-family="'Playfair Display',serif" font-size="8" font-weight="700" fill="#FFFFFF">TASTING NOTES &amp; IMPRESSIONS</text>
+
+  <!-- Notes writing area -->
+  <rect x="27" y="304" width="378" height="148" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <line x1="33" y1="318" x2="399" y2="318" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="332" x2="399" y2="332" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="346" x2="399" y2="346" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="360" x2="399" y2="360" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="374" x2="399" y2="374" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="388" x2="399" y2="388" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="402" x2="399" y2="402" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="416" x2="399" y2="416" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="430" x2="399" y2="430" stroke="#CCCCCC" stroke-width="0.5"/>
+  <line x1="33" y1="444" x2="399" y2="444" stroke="#CCCCCC" stroke-width="0.5"/>
+
+  <!-- Rating row -->
+  <rect x="27" y="452" width="378" height="18" fill="#F8F8F8" stroke="#000000" stroke-width="0.5"/>
+  <text x="33" y="464" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Rating:</text>
+  <rect x="63" y="455" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="79" y="455" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="95" y="455" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="111" y="455" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <rect x="127" y="455" width="12" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="146" y="464" font-family="'Playfair Display',serif" font-size="7" fill="#333333">(fill boxes 1-5)</text>
+  <text x="230" y="464" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Would buy again:</text>
+  <text x="307" y="464" font-family="'Playfair Display',serif" font-size="7" fill="#000000">Yes</text>
+  <rect x="318" y="455" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+  <text x="330" y="464" font-family="'Playfair Display',serif" font-size="7" fill="#000000">No</text>
+  <rect x="340" y="455" width="8" height="8" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Shared with row -->
+  <rect x="27" y="470" width="378" height="14" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="33" y="480" font-family="'Playfair Display',serif" font-size="7" font-weight="700" fill="#000000">Shared with:</text>
+  <rect x="85" y="471" width="320" height="12" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Outer border -->
+  <rect x="27" y="54" width="378" height="430" fill="none" stroke="#000000" stroke-width="1"/>
+
+  <!-- Page number -->
+  <text x="216" y="630" font-family="'Playfair Display',serif" font-size="8" fill="#000000" text-anchor="middle">___</text>
+</svg>

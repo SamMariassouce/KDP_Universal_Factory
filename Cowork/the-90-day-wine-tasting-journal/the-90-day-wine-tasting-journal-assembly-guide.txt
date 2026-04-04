@@ -1,0 +1,207 @@
+=====================================
+INTERIOR ASSEMBLY GUIDE — The 90-Day Wine Tasting Journal
+Target pages: 150
+Trim size: 6 x 9 inches
+=====================================
+
+PAGE STRUCTURE — IN THIS EXACT ORDER:
+
+Page 1:      Title page
+Page 2:      Copyright page
+Pages 3-4:   How to Use This Book (2 pages — Instructional Guide: How to Taste)
+Pages 5-111: quick-log-tasting-template.svg (107 tasting log entries)
+Pages 112-141: vineyard-visit-log-template.svg (30 vineyard visit pages)
+Pages 142-149: regional-grape-variety-index-template.svg (8 index pages)
+Page 150:    Thank you page
+
+TOTAL PAGES: 150 (even — no blank page needed)
+
+FONT: Merriweather — download from https://fonts.google.com/specimen/Merriweather
+COLOR SCHEME: Black and white
+=====================================
+
+
+-------------------------------------
+PAGE 1 — TITLE PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+The 90-Day Wine Tasting Journal
+
+A Curated Experience for Every Pour — with Vineyard Checklists,
+Flavor Wheels & Personal Favorites (2026)
+
+Author: Blissity Publications
+-------------------------------------
+
+
+-------------------------------------
+PAGE 2 — COPYRIGHT PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Copyright © 2026 Blissity Publications
+
+All rights reserved.
+
+No part of this publication may be reproduced, distributed, or transmitted
+in any form or by any means, including photocopying, recording, or other
+electronic or mechanical methods, without the prior written permission of
+the publisher.
+
+Printed in the USA
+
+First Edition
+-------------------------------------
+
+
+-------------------------------------
+PAGES 3-4 — HOW TO USE THIS BOOK / INSTRUCTIONAL GUIDE: HOW TO TASTE
+(Copy and paste into Affinity Publisher — 2 pages)
+-------------------------------------
+PAGE 3:
+
+HOW TO USE THIS JOURNAL
+
+Welcome to The 90-Day Wine Tasting Journal — your personal companion for
+every glass, every vineyard, and every wonderful sip along the way.
+Whether you're a weekend wine lover who enjoys tasting at local wineries
+or someone who simply wants to remember which bottle you loved at dinner
+last Saturday, this journal was made for you.
+
+This journal is designed to help you build a beautiful, personalized
+record of your wine journey over the next 90 days. You don't need to be
+a sommelier or know the difference between a Bordeaux and a Burgundy to
+get started — all you need is a glass of something you enjoy and a few
+minutes to jot down your impressions.
+
+QUICK-LOG TASTING PAGES (Pages 5–111)
+
+The heart of this journal, these 107 pages give you a structured but
+relaxed format for logging each wine you try. Fill in the wine name,
+winery, vintage, varietal, and region at the top. Rate the wine using
+the five boxes — one box for "not for me," five for "absolutely
+reordering this." Note what you see (color, clarity), what you smell
+(aromas), and what you taste (palate) — even simple words like "cherry,"
+"oak," or "crisp" are perfect. Check off flavors in the Flavor Profile
+section to help you discover your palate preferences over time. Use the
+Finish section to describe how long the flavors last after you swallow.
+Jot any final thoughts in Overall Notes, and mark whether you'd buy it
+again. Over 90 days, these pages will reveal patterns in what you love —
+and what you'd rather skip.
+
+VINEYARD VISIT & WISH LIST PAGES (Pages 112–141)
+
+Planning a trip to wine country? Use these pages before you go to jot
+down vineyards you're dreaming of visiting. After each visit, capture the
+vineyard name, location, atmosphere, the wines you tasted, and any
+bottles you brought home. The Wish List section at the bottom of each
+page lets you note which vineyards to explore next. These pages become a
+wonderful travel diary of your wine adventures.
+
+-------------------------------------
+PAGE 4 (continued):
+
+REGIONAL GRAPE VARIETY INDEX (Pages 142–149)
+
+These eight pages are your personal reference guide. As you discover new
+grape varieties and wine regions, record them here with key flavor notes
+and your personal ratings. Over time, this becomes your own curated wine
+reference that no book or app can replicate — because it's based entirely
+on what you've actually tasted. Use the Region / Appellation field at
+the top of each page to organize your index by area.
+
+HOW TO TASTE WINE — A QUICK GUIDE
+
+Look: Hold your glass against a white background and note the color and
+clarity. A rich ruby red, a pale straw gold, a deep garnet — these clues
+hint at the grape variety and age.
+
+Swirl: Gently swirl the wine to release its aromas. Don't worry about
+technique — a few slow circles in the glass is all it takes.
+
+Smell: Dip your nose into the glass and breathe in slowly. What do you
+notice first? Fruit? Flowers? Something earthy or spicy? Trust your
+instincts — there are no wrong answers.
+
+Taste: Take a small sip and let the wine coat your mouth. Notice the
+flavors, the weight (light, medium, or full-bodied), and the texture
+(smooth, tannic, or crisp).
+
+Finish: After you swallow, pay attention to the lingering flavors. A
+long, pleasant finish is often the mark of a quality wine.
+
+Tips for Getting the Most Out of This Journal: Try to fill in your
+tasting notes while the wine is still in your glass — your impressions
+will be sharper. Don't worry about using "correct" wine language; your
+own words are the most meaningful. Look back at your entries every few
+weeks to spot patterns — you may discover you have a strong preference
+for Pinot Noirs or that you always prefer wines under $20. By the end of
+90 days, you'll have a personal wine profile that makes every future
+purchase smarter and more enjoyable.
+-------------------------------------
+
+
+-------------------------------------
+LAST PAGE (PAGE 150) — THANK YOU PAGE
+(Copy and paste into Affinity Publisher)
+-------------------------------------
+Thank you for choosing The 90-Day Wine Tasting Journal as your companion
+through this delicious adventure.
+
+Every page you fill in brings you closer to understanding your own palate
+— and that is a gift worth savoring. We hope this journal travels with
+you to cozy dinners, vineyard visits, and quiet evenings at home, helping
+you capture memories one glass at a time. Whether you use it every day
+or just on special occasions, what matters is that you are paying
+attention, enjoying the experience, and making it your own.
+
+If this book has made a difference for you, we would love to hear about
+it! Please take a moment to leave an honest review on Amazon — your
+feedback helps other readers find books that can make a real difference
+in their lives.
+
+Scroll back to the top and click the review button.
+
+With gratitude,
+Blissity Publications
+-------------------------------------
+
+
+=====================================
+AFFINITY PUBLISHER ASSEMBLY NOTES
+
+1. Open Affinity Publisher and create a new document:
+   - Size: 6 x 9 inches
+   - Pages: 150
+   - Facing pages: ON (for proper inside/outside margins)
+
+2. Set margins:
+   - Inside (gutter): 0.375 inch (27px at 72 DPI)
+   - Outside: 0.375 inch
+   - Top: 0.75 inch
+   - Bottom: 0.75 inch
+   Note: This book is 150 pages — inside gutter stays at 0.375 inch.
+
+3. Set up master pages:
+   - Import each SVG template as a master page
+   - quick-log-tasting-template.svg → Master "A" (apply to pages 5–111)
+   - vineyard-visit-log-template.svg → Master "B" (apply to pages 112–141)
+   - regional-grape-variety-index-template.svg → Master "C" (apply to pages 142–149)
+
+4. Fixed pages (no master):
+   - Page 1: Title page — type directly, centered, Merriweather
+   - Page 2: Copyright page — type directly, Merriweather 9pt
+   - Pages 3-4: How to Use — type directly using content above
+   - Page 150: Thank you — type directly using content above
+
+5. Page numbers:
+   - Add auto page numbering in the footer area of each master page
+   - Position: bottom center, within the safe area
+   - Font: Merriweather, 9pt
+
+6. Export settings for KDP upload:
+   - File > Export > PDF (Print)
+   - Color space: Grayscale
+   - Resolution: 300 DPI minimum
+   - Bleed: 0.125 inch on all sides
+   - Marks: None
+=====================================

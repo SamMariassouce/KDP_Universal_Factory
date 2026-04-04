@@ -1,0 +1,330 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="648" viewBox="0 0 432 648">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;display=swap');
+      text { font-family: 'Playfair Display', serif; }
+    </style>
+  </defs>
+
+  <!-- Page background -->
+  <rect width="432" height="648" fill="#FFFFFF"/>
+
+  <!-- Header bar -->
+  <rect x="27" y="54" width="378" height="22" fill="#000000"/>
+  <text x="216" y="69" font-family="'Playfair Display',serif" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="middle">WINES TO TRY</text>
+
+  <!-- Subtitle bar -->
+  <rect x="27" y="76" width="378" height="13" fill="#333333"/>
+  <text x="216" y="86" font-family="'Playfair Display',serif" font-size="7" fill="#FFFFFF" text-anchor="middle">Your curated wishlist of wines to discover</text>
+
+  <!-- Table column headers -->
+  <!-- Columns: # (18px) | Wine / Producer (135px) | Region &amp; Grape (90px) | Where to Find (80px) | Priority (28px) | Tried (27px) -->
+  <!-- Total: 18+135+90+80+28+27 = 378px -->
+  <rect x="27" y="89" width="378" height="14" fill="#F0F0F0" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Column header labels -->
+  <text x="30" y="99" font-family="'Playfair Display',serif" font-size="6.5" font-weight="700" fill="#000000">#</text>
+  <line x1="45" y1="89" x2="45" y2="567" stroke="#000000" stroke-width="0.5"/>
+  <text x="48" y="99" font-family="'Playfair Display',serif" font-size="6.5" font-weight="700" fill="#000000">Wine / Producer</text>
+  <line x1="183" y1="89" x2="183" y2="567" stroke="#000000" stroke-width="0.5"/>
+  <text x="186" y="99" font-family="'Playfair Display',serif" font-size="6.5" font-weight="700" fill="#000000">Region &amp; Grape</text>
+  <line x1="273" y1="89" x2="273" y2="567" stroke="#000000" stroke-width="0.5"/>
+  <text x="276" y="99" font-family="'Playfair Display',serif" font-size="6.5" font-weight="700" fill="#000000">Where to Find It</text>
+  <line x1="349" y1="89" x2="349" y2="567" stroke="#000000" stroke-width="0.5"/>
+  <text x="352" y="99" font-family="'Playfair Display',serif" font-size="6.5" font-weight="700" fill="#000000">Priority</text>
+  <line x1="377" y1="89" x2="377" y2="567" stroke="#000000" stroke-width="0.5"/>
+  <text x="380" y="99" font-family="'Playfair Display',serif" font-size="6.5" font-weight="700" fill="#000000">Tried</text>
+
+  <!-- Row height: 21px each, 22 rows from y=103 to y=565 -->
+  <!-- Row 1 -->
+  <rect x="27" y="103" width="378" height="21" fill="#FFFFFF" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="116" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">1</text>
+  <line x1="45" y1="103" x2="45" y2="124" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="103" x2="183" y2="124" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="103" x2="273" y2="124" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="103" x2="349" y2="124" stroke="#000000" stroke-width="0.4"/>
+  <!-- Priority boxes H/M/L -->
+  <text x="352" y="116" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="107" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="116" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="107" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="103" x2="377" y2="124" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="107" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 2 -->
+  <rect x="27" y="124" width="378" height="21" fill="#F8F8F8" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="137" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">2</text>
+  <line x1="45" y1="124" x2="45" y2="145" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="124" x2="183" y2="145" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="124" x2="273" y2="145" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="124" x2="349" y2="145" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="137" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="128" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="137" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="128" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="124" x2="377" y2="145" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="128" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 3 -->
+  <rect x="27" y="145" width="378" height="21" fill="#FFFFFF" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="158" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">3</text>
+  <line x1="45" y1="145" x2="45" y2="166" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="145" x2="183" y2="166" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="145" x2="273" y2="166" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="145" x2="349" y2="166" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="158" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="149" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="158" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="149" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="145" x2="377" y2="166" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="149" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 4 -->
+  <rect x="27" y="166" width="378" height="21" fill="#F8F8F8" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="179" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">4</text>
+  <line x1="45" y1="166" x2="45" y2="187" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="166" x2="183" y2="187" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="166" x2="273" y2="187" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="166" x2="349" y2="187" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="179" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="170" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="179" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="170" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="166" x2="377" y2="187" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="170" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 5 -->
+  <rect x="27" y="187" width="378" height="21" fill="#FFFFFF" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="200" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">5</text>
+  <line x1="45" y1="187" x2="45" y2="208" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="187" x2="183" y2="208" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="187" x2="273" y2="208" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="187" x2="349" y2="208" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="200" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="191" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="200" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="191" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="187" x2="377" y2="208" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="191" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 6 -->
+  <rect x="27" y="208" width="378" height="21" fill="#F8F8F8" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="221" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">6</text>
+  <line x1="45" y1="208" x2="45" y2="229" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="208" x2="183" y2="229" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="208" x2="273" y2="229" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="208" x2="349" y2="229" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="221" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="212" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="221" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="212" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="208" x2="377" y2="229" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="212" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 7 -->
+  <rect x="27" y="229" width="378" height="21" fill="#FFFFFF" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="242" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">7</text>
+  <line x1="45" y1="229" x2="45" y2="250" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="229" x2="183" y2="250" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="229" x2="273" y2="250" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="229" x2="349" y2="250" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="242" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="233" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="242" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="233" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="229" x2="377" y2="250" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="233" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 8 -->
+  <rect x="27" y="250" width="378" height="21" fill="#F8F8F8" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="263" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">8</text>
+  <line x1="45" y1="250" x2="45" y2="271" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="250" x2="183" y2="271" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="250" x2="273" y2="271" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="250" x2="349" y2="271" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="263" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="254" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="263" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="254" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="250" x2="377" y2="271" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="254" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 9 -->
+  <rect x="27" y="271" width="378" height="21" fill="#FFFFFF" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="284" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">9</text>
+  <line x1="45" y1="271" x2="45" y2="292" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="271" x2="183" y2="292" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="271" x2="273" y2="292" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="271" x2="349" y2="292" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="284" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="275" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="284" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="275" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="271" x2="377" y2="292" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="275" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 10 -->
+  <rect x="27" y="292" width="378" height="21" fill="#F8F8F8" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="305" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">10</text>
+  <line x1="45" y1="292" x2="45" y2="313" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="292" x2="183" y2="313" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="292" x2="273" y2="313" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="292" x2="349" y2="313" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="305" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="296" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="305" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="296" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="292" x2="377" y2="313" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="296" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 11 -->
+  <rect x="27" y="313" width="378" height="21" fill="#FFFFFF" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="326" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">11</text>
+  <line x1="45" y1="313" x2="45" y2="334" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="313" x2="183" y2="334" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="313" x2="273" y2="334" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="313" x2="349" y2="334" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="326" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="317" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="326" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="317" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="313" x2="377" y2="334" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="317" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 12 -->
+  <rect x="27" y="334" width="378" height="21" fill="#F8F8F8" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="347" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">12</text>
+  <line x1="45" y1="334" x2="45" y2="355" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="334" x2="183" y2="355" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="334" x2="273" y2="355" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="334" x2="349" y2="355" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="347" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="338" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="347" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="338" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="334" x2="377" y2="355" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="338" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 13 -->
+  <rect x="27" y="355" width="378" height="21" fill="#FFFFFF" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="368" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">13</text>
+  <line x1="45" y1="355" x2="45" y2="376" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="355" x2="183" y2="376" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="355" x2="273" y2="376" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="355" x2="349" y2="376" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="368" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="359" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="368" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="359" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="355" x2="377" y2="376" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="359" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 14 -->
+  <rect x="27" y="376" width="378" height="21" fill="#F8F8F8" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="389" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">14</text>
+  <line x1="45" y1="376" x2="45" y2="397" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="376" x2="183" y2="397" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="376" x2="273" y2="397" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="376" x2="349" y2="397" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="389" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="380" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="389" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="380" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="376" x2="377" y2="397" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="380" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 15 -->
+  <rect x="27" y="397" width="378" height="21" fill="#FFFFFF" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="410" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">15</text>
+  <line x1="45" y1="397" x2="45" y2="418" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="397" x2="183" y2="418" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="397" x2="273" y2="418" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="397" x2="349" y2="418" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="410" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="401" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="410" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="401" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="397" x2="377" y2="418" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="401" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 16 -->
+  <rect x="27" y="418" width="378" height="21" fill="#F8F8F8" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="431" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">16</text>
+  <line x1="45" y1="418" x2="45" y2="439" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="418" x2="183" y2="439" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="418" x2="273" y2="439" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="418" x2="349" y2="439" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="431" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="422" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="431" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="422" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="418" x2="377" y2="439" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="422" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 17 -->
+  <rect x="27" y="439" width="378" height="21" fill="#FFFFFF" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="452" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">17</text>
+  <line x1="45" y1="439" x2="45" y2="460" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="439" x2="183" y2="460" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="439" x2="273" y2="460" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="439" x2="349" y2="460" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="452" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="443" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="452" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="443" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="439" x2="377" y2="460" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="443" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 18 -->
+  <rect x="27" y="460" width="378" height="21" fill="#F8F8F8" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="473" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">18</text>
+  <line x1="45" y1="460" x2="45" y2="481" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="460" x2="183" y2="481" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="460" x2="273" y2="481" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="460" x2="349" y2="481" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="473" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="464" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="473" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="464" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="460" x2="377" y2="481" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="464" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 19 -->
+  <rect x="27" y="481" width="378" height="21" fill="#FFFFFF" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="494" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">19</text>
+  <line x1="45" y1="481" x2="45" y2="502" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="481" x2="183" y2="502" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="481" x2="273" y2="502" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="481" x2="349" y2="502" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="494" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="485" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="494" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="485" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="481" x2="377" y2="502" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="485" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Row 20 -->
+  <rect x="27" y="502" width="378" height="21" fill="#F8F8F8" stroke="#000000" stroke-width="0.4"/>
+  <text x="30" y="515" font-family="'Playfair Display',serif" font-size="6.5" fill="#000000">20</text>
+  <line x1="45" y1="502" x2="45" y2="523" stroke="#000000" stroke-width="0.4"/>
+  <line x1="183" y1="502" x2="183" y2="523" stroke="#000000" stroke-width="0.4"/>
+  <line x1="273" y1="502" x2="273" y2="523" stroke="#000000" stroke-width="0.4"/>
+  <line x1="349" y1="502" x2="349" y2="523" stroke="#000000" stroke-width="0.4"/>
+  <text x="352" y="515" font-family="'Playfair Display',serif" font-size="6" fill="#000000">H</text>
+  <rect x="360" y="506" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <text x="368" y="515" font-family="'Playfair Display',serif" font-size="6" fill="#000000">L</text>
+  <rect x="374" y="506" width="6" height="6" fill="#FFFFFF" stroke="#000000" stroke-width="0.5"/>
+  <line x1="377" y1="502" x2="377" y2="523" stroke="#000000" stroke-width="0.4"/>
+  <rect x="381" y="506" width="10" height="10" fill="#FFFFFF" stroke="#000000" stroke-width="0.75"/>
+
+  <!-- Notes footer row -->
+  <rect x="27" y="523" width="378" height="18" fill="#F0F0F0" stroke="#000000" stroke-width="0.75"/>
+  <text x="33" y="533" font-family="'Playfair Display',serif" font-size="6.5" font-weight="700" fill="#000000">Priority key: H = High (try soon)   L = Low (someday)</text>
+  <text x="33" y="539" font-family="'Playfair Display',serif" font-size="6" fill="#333333">Tick the Tried box when you log the wine in your tasting journal</text>
+
+  <!-- Outer border -->
+  <rect x="27" y="54" width="378" height="487" fill="none" stroke="#000000" stroke-width="1"/>
+
+  <!-- Page number -->
+  <text x="216" y="630" font-family="'Playfair Display',serif" font-size="8" fill="#000000" text-anchor="middle">___</text>
+</svg>
